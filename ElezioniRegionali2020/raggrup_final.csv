@@ -1,4 +1,4 @@
-PRO_COM_T,COMUNE,cognome_cand,nome_cand,data_nascita_cand,luogo_nascita_cand,voti
+CODICE ISTAT,COMUNE,cogn,nome,d_nasc_cand,l_nasc,voti
 042050,Trecastelli,Banzato,Sabrina Paola,21/02/1964,Castellanza,22
 042050,Trecastelli,Iannetti,Anna Rita,26/08/1953,Brittoli,33
 042050,Trecastelli,Mangialardi,Maurizio,17/11/1964,Ancona,1532
