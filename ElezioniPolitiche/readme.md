@@ -17,13 +17,14 @@ Le tabelle non hanno lo stesso numero o intestazioni di colonne
 
 - Tabella pivot degli scrutini delle Liste per la Camera: [Camera2018_scrutini_pivot.csv](https://github.com/gjrichter/data/blob/master/ElezioniPolitiche/csv/Camera2018_scrutini_pivot.csv)
 - La tabella è il risultato di una elaborazione a base di dati pubblicati da OnData [qui](https://github.com/ondata/elezionipolitiche2018) 
+  In coda alle liste del 2018 c'è l'aggiunto dei risultati delle elezioni 2013
 - esiste un [Notebook](https://observablehq.com/@gjrichter/elezioni-politiche-2018-data-prep) (Observable) che dimostra il processo della creazione della tabella finale (pivot) da parte dei file pubblicati da OnData.
 
 ## Download
 
 I dati si trovano in [questa cartella](https://github.com/gjrichter/data/tree/master/ElezioniPolitiche/csv).
 
-Tutti i CSV di output hanno come *encoding* l'`UTF-8` e come separatore la `,`.
+Tutti i CSV di output hanno come *encoding* l'`UTF-8` e come separatore la `,` 0 la `;`.
 
 
 
