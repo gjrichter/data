@@ -15,7 +15,7 @@ jobs:
     - name: Verifica aggiornamenti
       run: |-
         git pull
-        wget -o contagi_marche.json https://contagi-marche.tapion.it/contagi_marche.json
+        wget -O contagi_marche.json https://contagi-marche.tapion.it/contagi_marche.json
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "iXMapsBot"
