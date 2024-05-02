@@ -12,13 +12,14 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
+      working-directory: ./MISE
     - name: Verifica aggiornamenti
       run: |-
         git pull
         wget -O anagrafica_impianti_attivi.csv https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv
         wget -O prezzo_alle_8.csv https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv
     - name: Committa e pusha se ci sono variazioni nei dati
-      run: |-
+        run: |-
         git config user.name "iXMapsBot"
         git config user.email "actions@users.noreply.github.com"
         git add -A
