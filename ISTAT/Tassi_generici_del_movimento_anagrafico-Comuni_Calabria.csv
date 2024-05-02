@@ -1,0 +1,1562 @@
+"Tassi generici del movimento anagrafico, anni 2022/2041, scenario mediano, per 1.000 abitanti"
+"Anno";"Codice comune";"Comune";"Codice provincia";"Provincia";"Tasso di natalità";"Tasso di mortalità";"Tasso migratorio netto";"Tasso totale di crescita"
+2022;"078003";"Acri";"078";"Cosenza";6;13,4;-4,6;-12
+2022;"078010";"Amantea";"078";"Cosenza";6,9;11,5;6,2;1,7
+2022;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";8,1;13,2;-4,4;-9,5
+2022;"078015";"Belvedere Marittimo";"078";"Cosenza";5,4;13;9,7;2,1
+2022;"078017";"Bisignano";"078";"Cosenza";8;12,5;1,5;-2,9
+2022;"079011";"Borgia";"079";"Catanzaro";7,7;11,2;-4,4;-7,9
+2022;"079012";"Botricello";"079";"Catanzaro";7,7;10,1;-0,8;-3,1
+2022;"080012";"Bovalino";"080";"Reggio di Calabria";10,4;12;2,5;0,8
+2022;"078025";"Cariati";"078";"Cosenza";7,3;12,1;-2,3;-7,1
+2022;"078156";"Casali del Manco";"078";"Cosenza";7,3;12,6;-3,7;-9
+2022;"078029";"Cassano all'Ionio";"078";"Cosenza";7,7;12,8;-1,3;-6,4
+2022;"078031";"Castrolibero";"078";"Cosenza";6,3;10,2;-5,1;-9
+2022;"078033";"Castrovillari";"078";"Cosenza";6,5;12,3;-0,1;-5,9
+2022;"079023";"Catanzaro";"079";"Catanzaro";6,8;12;-3,6;-8,9
+2022;"080025";"Caulonia";"080";"Reggio di Calabria";7,6;13,7;9,7;3,6
+2022;"078040";"Cetraro";"078";"Cosenza";5,8;13,6;3,9;-3,9
+2022;"079029";"Chiaravalle Centrale";"079";"Catanzaro";7;15,2;-4,5;-12,7
+2022;"080027";"Cinquefrondi";"080";"Reggio di Calabria";8,8;10,2;-2,5;-3,8
+2022;"101008";"Cirò Marina";"101";"Crotone";9;10,4;-1,2;-2,6
+2022;"080028";"Cittanova";"080";"Reggio di Calabria";8,5;11,9;-1,4;-4,8
+2022;"078157";"Corigliano-Rossano";"078";"Cosenza";8,3;9,6;2,5;1,1
+2022;"078045";"Cosenza";"078";"Cosenza";6,6;14,1;3,6;-3,9
+2022;"101009";"Cotronei";"101";"Crotone";8,4;14,3;3,3;-2,6
+2022;"078047";"Crosia";"078";"Cosenza";8,1;8,7;8,5;7,8
+2022;"101010";"Crotone";"101";"Crotone";7,5;9,9;0,1;-2,2
+2022;"079039";"Curinga";"079";"Catanzaro";7,3;11;2;-1,7
+2022;"101012";"Cutro";"101";"Crotone";8,1;13,2;-6,9;-12
+2022;"079042";"Davoli";"079";"Catanzaro";6,6;9,9;7,3;3,9
+2022;"078048";"Diamante";"078";"Cosenza";5,9;13,4;2,5;-5
+2022;"078058";"Fuscaldo";"078";"Cosenza";7,5;11;6;2,5
+2022;"080038";"Gioia Tauro";"080";"Reggio di Calabria";8,8;9,7;0;-0,9
+2022;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";8,8;10,5;7;5,2
+2022;"079059";"Girifalco";"079";"Catanzaro";7;16;-1,2;-10,2
+2022;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,7;7,2;6,9;10,5
+2022;"079160";"Lamezia Terme";"079";"Catanzaro";8;10,4;0,2;-2,3
+2022;"080043";"Locri";"080";"Reggio di Calabria";7,7;11,8;1,5;-2,6
+2022;"078070";"Luzzi";"078";"Cosenza";7,2;12,7;-1,6;-7,1
+2022;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";8,2;11,7;-1,9;-5,4
+2022;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";6,7;12,6;-1,8;-7,7
+2022;"078079";"Mendicino";"078";"Cosenza";7,4;9,3;-0,7;-2,6
+2022;"101015";"Mesoraca";"101";"Crotone";8,1;14,1;-9,5;-15,6
+2022;"102021";"Mileto";"102";"Vibo Valentia";8,3;12,9;-1,7;-6,3
+2022;"078081";"Montalto Uffugo";"078";"Cosenza";10,6;8,4;6,3;8,4
+2022;"080053";"Montebello Jonico";"080";"Reggio di Calabria";7;13,8;1,6;-5,2
+2022;"079081";"Montepaone";"079";"Catanzaro";8,1;8,4;14,2;13,8
+2022;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";6,1;14,1;-4,2;-12,2
+2022;"102025";"Nicotera";"102";"Vibo Valentia";6,6;12,6;2,7;-3,3
+2022;"080057";"Palmi";"080";"Reggio di Calabria";8,6;10,8;-2,5;-4,7
+2022;"078091";"Paola";"078";"Cosenza";6,6;13,1;-2,1;-8,7
+2022;"101017";"Petilia Policastro";"101";"Crotone";8,3;11,7;-4;-7,4
+2022;"102027";"Pizzo";"102";"Vibo Valentia";6,1;10,8;4;-0,7
+2022;"080061";"Polistena";"080";"Reggio di Calabria";8,1;10,4;-2,1;-4,3
+2022;"078101";"Praia a Mare";"078";"Cosenza";5,9;11,9;0,7;-5,3
+2022;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";7;12,3;-1,8;-7,1
+2022;"078102";"Rende";"078";"Cosenza";7,6;9;12,2;10,8
+2022;"080065";"Rizziconi";"080";"Reggio di Calabria";8;10,6;-0,8;-3,4
+2022;"101019";"Rocca di Neto";"101";"Crotone";9,6;10,8;-3;-4,1
+2022;"080067";"Roccella Ionica";"080";"Reggio di Calabria";6,4;14,2;-0,3;-8,1
+2022;"078104";"Roggiano Gravina";"078";"Cosenza";7,2;13;3,2;-2,6
+2022;"078105";"Rogliano";"078";"Cosenza";5,9;13;-2;-9,1
+2022;"080069";"Rosarno";"080";"Reggio di Calabria";9,5;10;7,5;6,9
+2022;"078119";"San Giovanni in Fiore";"078";"Cosenza";6,7;12,3;-5,9;-11,4
+2022;"078122";"San Lucido";"078";"Cosenza";7,1;11,2;28,1;24
+2022;"078123";"San Marco Argentano";"078";"Cosenza";6,4;13,5;13,8;6,8
+2022;"078138";"Scalea";"078";"Cosenza";6,8;9,8;13,3;10,3
+2022;"079127";"Sellia Marina";"079";"Catanzaro";8,9;9,1;6,8;6,6
+2022;"102037";"Serra San Bruno";"102";"Vibo Valentia";8,5;10,3;-5,2;-7
+2022;"080088";"Siderno";"080";"Reggio di Calabria";8,2;10,1;1,8;-0,1
+2022;"079137";"Soverato";"079";"Catanzaro";5,2;12,6;1,6;-5,8
+2022;"078142";"Spezzano Albanese";"078";"Cosenza";7,9;14,1;0,4;-5,8
+2022;"101025";"Strongoli";"101";"Crotone";8,2;10,8;-1,6;-4,3
+2022;"080093";"Taurianova";"080";"Reggio di Calabria";8,3;10,7;-3,1;-5,5
+2022;"078149";"Tortora";"078";"Cosenza";6,2;9,3;2;-1,2
+2022;"078150";"Trebisacce";"078";"Cosenza";6,8;12,8;4,8;-1,2
+2022;"102044";"Tropea";"102";"Vibo Valentia";6,1;13,4;-2,7;-10
+2022;"102047";"Vibo Valentia";"102";"Vibo Valentia";6,6;11,1;-4,6;-9,1
+2022;"078154";"Villapiana";"078";"Cosenza";7,8;13,2;8,9;3,4
+2022;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";6,7;12,1;-3,5;-8,9
+2023;"078003";"Acri";"078";"Cosenza";5,9;13,5;-4,7;-12,4
+2023;"078010";"Amantea";"078";"Cosenza";6,8;11,4;5,8;1,2
+2023;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,9;13,2;-4,6;-9,9
+2023;"078015";"Belvedere Marittimo";"078";"Cosenza";5,3;12,9;9,1;1,5
+2023;"078017";"Bisignano";"078";"Cosenza";7,8;12,4;1,2;-3,3
+2023;"079011";"Borgia";"079";"Catanzaro";7,4;11,2;-4,4;-8,1
+2023;"079012";"Botricello";"079";"Catanzaro";7,4;10,1;-1;-3,7
+2023;"080012";"Bovalino";"080";"Reggio di Calabria";10,1;11,8;2,2;0,5
+2023;"078025";"Cariati";"078";"Cosenza";7,1;12,2;-2,7;-7,8
+2023;"078156";"Casali del Manco";"078";"Cosenza";7,1;12,5;-3,8;-9,2
+2023;"078029";"Cassano all'Ionio";"078";"Cosenza";7,5;12,6;-1,6;-6,7
+2023;"078031";"Castrolibero";"078";"Cosenza";6,1;10,5;-5;-9,4
+2023;"078033";"Castrovillari";"078";"Cosenza";6,4;12,4;-0,2;-6,2
+2023;"079023";"Catanzaro";"079";"Catanzaro";6,6;12,1;-3,7;-9,1
+2023;"080025";"Caulonia";"080";"Reggio di Calabria";7,5;13,6;9;2,9
+2023;"078040";"Cetraro";"078";"Cosenza";5,7;13,6;3,6;-4,3
+2023;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,8;15,1;-4,6;-12,9
+2023;"080027";"Cinquefrondi";"080";"Reggio di Calabria";8,6;10,2;-2,6;-4,2
+2023;"101008";"Cirò Marina";"101";"Crotone";8,7;10,5;-1,3;-3
+2023;"080028";"Cittanova";"080";"Reggio di Calabria";8,3;11,8;-1,6;-5,2
+2023;"078157";"Corigliano-Rossano";"078";"Cosenza";8,1;9,6;2,1;0,5
+2023;"078045";"Cosenza";"078";"Cosenza";6,4;13,9;3,3;-4,1
+2023;"101009";"Cotronei";"101";"Crotone";8,2;14;3,1;-2,7
+2023;"078047";"Crosia";"078";"Cosenza";7,9;8,8;7,8;6,9
+2023;"101010";"Crotone";"101";"Crotone";7,4;9,9;-0,2;-2,8
+2023;"079039";"Curinga";"079";"Catanzaro";7,3;11;1,7;-2,1
+2023;"101012";"Cutro";"101";"Crotone";7,8;13,5;-6,9;-12,5
+2023;"079042";"Davoli";"079";"Catanzaro";6,4;10;6,8;3,2
+2023;"078048";"Diamante";"078";"Cosenza";5,8;13,5;2,4;-5,3
+2023;"078058";"Fuscaldo";"078";"Cosenza";7,3;11;5,3;1,6
+2023;"080038";"Gioia Tauro";"080";"Reggio di Calabria";8,6;9,8;-0,2;-1,3
+2023;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";8,6;10,5;6,4;4,5
+2023;"079059";"Girifalco";"079";"Catanzaro";6,9;15,8;-1,3;-10,2
+2023;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,6;7,2;6,4;9,8
+2023;"079160";"Lamezia Terme";"079";"Catanzaro";7,8;10,4;-0,2;-2,8
+2023;"080043";"Locri";"080";"Reggio di Calabria";7,5;11,8;1,2;-3,1
+2023;"078070";"Luzzi";"078";"Cosenza";7;12,7;-1,7;-7,3
+2023;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";7,9;11,6;-2,1;-5,8
+2023;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";6,5;12,6;-2;-8,1
+2023;"078079";"Mendicino";"078";"Cosenza";7,1;9,4;-0,9;-3,2
+2023;"101015";"Mesoraca";"101";"Crotone";7,8;14;-9,6;-15,7
+2023;"102021";"Mileto";"102";"Vibo Valentia";8,1;12,9;-1,8;-6,6
+2023;"078081";"Montalto Uffugo";"078";"Cosenza";10;8,4;5,7;7,3
+2023;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,8;13,8;1,3;-5,6
+2023;"079081";"Montepaone";"079";"Catanzaro";7,8;8,5;13,1;12,4
+2023;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,9;14,1;-4,2;-12,4
+2023;"102025";"Nicotera";"102";"Vibo Valentia";6,5;12,5;2,4;-3,6
+2023;"080057";"Palmi";"080";"Reggio di Calabria";8,3;10,8;-2,5;-5
+2023;"078091";"Paola";"078";"Cosenza";6,4;12,9;-2,3;-8,8
+2023;"101017";"Petilia Policastro";"101";"Crotone";8,1;11,7;-4;-7,6
+2023;"102027";"Pizzo";"102";"Vibo Valentia";6;10,9;3,6;-1,3
+2023;"080061";"Polistena";"080";"Reggio di Calabria";7,9;10,3;-2,2;-4,7
+2023;"078101";"Praia a Mare";"078";"Cosenza";5,7;12;0,7;-5,6
+2023;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";6,8;12,3;-2;-7,5
+2023;"078102";"Rende";"078";"Cosenza";7,4;9,1;11,3;9,6
+2023;"080065";"Rizziconi";"080";"Reggio di Calabria";7,9;10,5;-1;-3,6
+2023;"101019";"Rocca di Neto";"101";"Crotone";9,4;10,9;-3,2;-4,7
+2023;"080067";"Roccella Ionica";"080";"Reggio di Calabria";6,2;14,3;-0,4;-8,4
+2023;"078104";"Roggiano Gravina";"078";"Cosenza";7,1;12,9;2,7;-3,2
+2023;"078105";"Rogliano";"078";"Cosenza";5,8;12,9;-2;-9,1
+2023;"080069";"Rosarno";"080";"Reggio di Calabria";9,4;9,9;7;6,5
+2023;"078119";"San Giovanni in Fiore";"078";"Cosenza";6,6;12,4;-5,9;-11,7
+2023;"078122";"San Lucido";"078";"Cosenza";7,1;10,9;25,9;22
+2023;"078123";"San Marco Argentano";"078";"Cosenza";6,2;13,1;12,3;5,5
+2023;"078138";"Scalea";"078";"Cosenza";6,6;9,8;12,7;9,5
+2023;"079127";"Sellia Marina";"079";"Catanzaro";8,6;9,2;6,2;5,6
+2023;"102037";"Serra San Bruno";"102";"Vibo Valentia";8,3;10,4;-5,2;-7,3
+2023;"080088";"Siderno";"080";"Reggio di Calabria";7,9;10;1,6;-0,5
+2023;"079137";"Soverato";"079";"Catanzaro";5;12,8;1,4;-6,3
+2023;"078142";"Spezzano Albanese";"078";"Cosenza";7,7;14,1;0,2;-6,2
+2023;"101025";"Strongoli";"101";"Crotone";7,9;10,9;-1,7;-4,7
+2023;"080093";"Taurianova";"080";"Reggio di Calabria";8,1;10,8;-3,1;-5,8
+2023;"078149";"Tortora";"078";"Cosenza";6;9,6;1,8;-1,8
+2023;"078150";"Trebisacce";"078";"Cosenza";6,7;12,8;4,5;-1,7
+2023;"102044";"Tropea";"102";"Vibo Valentia";5,9;13,5;-2,8;-10,4
+2023;"102047";"Vibo Valentia";"102";"Vibo Valentia";6,4;11,2;-4,6;-9,3
+2023;"078154";"Villapiana";"078";"Cosenza";7,6;13,2;8,3;2,7
+2023;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";6,4;12,2;-3,6;-9,3
+2024;"078003";"Acri";"078";"Cosenza";5,7;13,6;-4,8;-12,7
+2024;"078010";"Amantea";"078";"Cosenza";6,7;11,3;5,4;0,8
+2024;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,7;13,3;-4,8;-10,4
+2024;"078015";"Belvedere Marittimo";"078";"Cosenza";5,2;12,9;8,5;0,8
+2024;"078017";"Bisignano";"078";"Cosenza";7,6;12,3;0,9;-3,7
+2024;"079011";"Borgia";"079";"Catanzaro";7,2;11,2;-4,4;-8,4
+2024;"079012";"Botricello";"079";"Catanzaro";7,2;10,2;-1,2;-4,2
+2024;"080012";"Bovalino";"080";"Reggio di Calabria";9,9;11,7;2;0,2
+2024;"078025";"Cariati";"078";"Cosenza";7;12,3;-3,1;-8,4
+2024;"078156";"Casali del Manco";"078";"Cosenza";7;12,5;-3,9;-9,4
+2024;"078029";"Cassano all'Ionio";"078";"Cosenza";7,3;12,5;-1,9;-7,1
+2024;"078031";"Castrolibero";"078";"Cosenza";5,9;10,8;-4,9;-9,8
+2024;"078033";"Castrovillari";"078";"Cosenza";6,2;12,4;-0,4;-6,6
+2024;"079023";"Catanzaro";"079";"Catanzaro";6,4;12,2;-3,7;-9,4
+2024;"080025";"Caulonia";"080";"Reggio di Calabria";7,4;13,4;8,2;2,2
+2024;"078040";"Cetraro";"078";"Cosenza";5,5;13,5;3,2;-4,8
+2024;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,7;15,1;-4,8;-13,2
+2024;"080027";"Cinquefrondi";"080";"Reggio di Calabria";8,4;10,2;-2,9;-4,7
+2024;"101008";"Cirò Marina";"101";"Crotone";8,5;10,5;-1,4;-3,5
+2024;"080028";"Cittanova";"080";"Reggio di Calabria";8,1;11,8;-1,9;-5,5
+2024;"078157";"Corigliano-Rossano";"078";"Cosenza";7,9;9,7;1,8;0
+2024;"078045";"Cosenza";"078";"Cosenza";6,3;13,7;3,1;-4,4
+2024;"101009";"Cotronei";"101";"Crotone";8;13,7;2,9;-2,8
+2024;"078047";"Crosia";"078";"Cosenza";7,8;8,9;7,1;5,9
+2024;"101010";"Crotone";"101";"Crotone";7,2;10,1;-0,6;-3,4
+2024;"079039";"Curinga";"079";"Catanzaro";7,2;11;1,3;-2,5
+2024;"101012";"Cutro";"101";"Crotone";7,6;13,7;-7;-13
+2024;"079042";"Davoli";"079";"Catanzaro";6,3;10,2;6,4;2,5
+2024;"078048";"Diamante";"078";"Cosenza";5,6;13,5;2,3;-5,6
+2024;"078058";"Fuscaldo";"078";"Cosenza";7,1;11,1;4,7;0,7
+2024;"080038";"Gioia Tauro";"080";"Reggio di Calabria";8,4;9,8;-0,4;-1,7
+2024;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";8,4;10,4;5,8;3,8
+2024;"079059";"Girifalco";"079";"Catanzaro";6,7;15,6;-1,5;-10,3
+2024;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,6;7,3;5,9;9,2
+2024;"079160";"Lamezia Terme";"079";"Catanzaro";7,6;10,5;-0,5;-3,4
+2024;"080043";"Locri";"080";"Reggio di Calabria";7,3;11,8;1;-3,6
+2024;"078070";"Luzzi";"078";"Cosenza";6,8;12,7;-1,8;-7,6
+2024;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";7,6;11,6;-2,2;-6,1
+2024;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";6,3;12,5;-2,2;-8,5
+2024;"078079";"Mendicino";"078";"Cosenza";6,9;9,5;-1,2;-3,7
+2024;"101015";"Mesoraca";"101";"Crotone";7,6;13,9;-9,6;-15,9
+2024;"102021";"Mileto";"102";"Vibo Valentia";7,9;12,8;-1,9;-6,7
+2024;"078081";"Montalto Uffugo";"078";"Cosenza";9,6;8,5;5,1;6,2
+2024;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,6;13,8;1;-6,2
+2024;"079081";"Montepaone";"079";"Catanzaro";7,5;8,6;12,1;11,1
+2024;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,7;14,2;-4,3;-12,7
+2024;"102025";"Nicotera";"102";"Vibo Valentia";6,4;12,6;2,1;-4
+2024;"080057";"Palmi";"080";"Reggio di Calabria";8,1;10,8;-2,5;-5,3
+2024;"078091";"Paola";"078";"Cosenza";6,2;12,8;-2,4;-9
+2024;"101017";"Petilia Policastro";"101";"Crotone";7,9;11,7;-4,1;-7,8
+2024;"102027";"Pizzo";"102";"Vibo Valentia";5,8;11;3,3;-1,9
+2024;"080061";"Polistena";"080";"Reggio di Calabria";7,7;10,3;-2,4;-5
+2024;"078101";"Praia a Mare";"078";"Cosenza";5,6;12,2;0,6;-6
+2024;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";6,6;12,3;-2,1;-7,9
+2024;"078102";"Rende";"078";"Cosenza";7,2;9,2;10,5;8,5
+2024;"080065";"Rizziconi";"080";"Reggio di Calabria";7,9;10,5;-1,2;-3,8
+2024;"101019";"Rocca di Neto";"101";"Crotone";9,2;11;-3,5;-5,2
+2024;"080067";"Roccella Ionica";"080";"Reggio di Calabria";6;14,3;-0,5;-8,8
+2024;"078104";"Roggiano Gravina";"078";"Cosenza";6,9;12,8;2,2;-3,8
+2024;"078105";"Rogliano";"078";"Cosenza";5,7;12,9;-2,3;-9,5
+2024;"080069";"Rosarno";"080";"Reggio di Calabria";9,4;9,9;6,2;5,7
+2024;"078119";"San Giovanni in Fiore";"078";"Cosenza";6,5;12,5;-6;-12
+2024;"078122";"San Lucido";"078";"Cosenza";7;10,8;23,9;20,2
+2024;"078123";"San Marco Argentano";"078";"Cosenza";6,1;12,7;10,8;4,1
+2024;"078138";"Scalea";"078";"Cosenza";6,4;9,9;12,1;8,6
+2024;"079127";"Sellia Marina";"079";"Catanzaro";8,3;9,3;5,7;4,7
+2024;"102037";"Serra San Bruno";"102";"Vibo Valentia";8,1;10,4;-5,3;-7,6
+2024;"080088";"Siderno";"080";"Reggio di Calabria";7,7;10;1,3;-1
+2024;"079137";"Soverato";"079";"Catanzaro";4,9;13;1,3;-6,7
+2024;"078142";"Spezzano Albanese";"078";"Cosenza";7,5;14;0;-6,5
+2024;"101025";"Strongoli";"101";"Crotone";7,7;11,1;-1,8;-5,2
+2024;"080093";"Taurianova";"080";"Reggio di Calabria";7,9;10,8;-3,2;-6,1
+2024;"078149";"Tortora";"078";"Cosenza";5,8;9,8;1,7;-2,3
+2024;"078150";"Trebisacce";"078";"Cosenza";6,5;12,8;4,2;-2,1
+2024;"102044";"Tropea";"102";"Vibo Valentia";5,8;13,6;-2,9;-10,7
+2024;"102047";"Vibo Valentia";"102";"Vibo Valentia";6,3;11,3;-4,6;-9,6
+2024;"078154";"Villapiana";"078";"Cosenza";7,4;13,1;7,8;2,1
+2024;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";6,2;12,2;-3,7;-9,7
+2025;"078003";"Acri";"078";"Cosenza";5,6;13,7;-5;-13
+2025;"078010";"Amantea";"078";"Cosenza";6,6;11,2;4,9;0,3
+2025;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,5;13,3;-5;-10,8
+2025;"078015";"Belvedere Marittimo";"078";"Cosenza";5,1;12,9;8;0,2
+2025;"078017";"Bisignano";"078";"Cosenza";7,5;12,3;0,6;-4,2
+2025;"079011";"Borgia";"079";"Catanzaro";7,1;11,3;-4,5;-8,7
+2025;"079012";"Botricello";"079";"Catanzaro";6,9;10,2;-1,3;-4,7
+2025;"080012";"Bovalino";"080";"Reggio di Calabria";9,7;11,6;1,8;-0,2
+2025;"078025";"Cariati";"078";"Cosenza";6,9;12,5;-3,5;-9,1
+2025;"078156";"Casali del Manco";"078";"Cosenza";6,9;12,5;-3,9;-9,5
+2025;"078029";"Cassano all'Ionio";"078";"Cosenza";7,1;12,5;-2,2;-7,5
+2025;"078031";"Castrolibero";"078";"Cosenza";5,7;11,1;-4,8;-10,2
+2025;"078033";"Castrovillari";"078";"Cosenza";6,1;12,5;-0,5;-6,9
+2025;"079023";"Catanzaro";"079";"Catanzaro";6,3;12,3;-3,7;-9,6
+2025;"080025";"Caulonia";"080";"Reggio di Calabria";7,3;13,2;7,5;1,6
+2025;"078040";"Cetraro";"078";"Cosenza";5,3;13,5;2,9;-5,3
+2025;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,5;15,1;-5;-13,5
+2025;"080027";"Cinquefrondi";"080";"Reggio di Calabria";8,2;10,2;-3,1;-5,1
+2025;"101008";"Cirò Marina";"101";"Crotone";8,3;10,6;-1,6;-3,9
+2025;"080028";"Cittanova";"080";"Reggio di Calabria";7,9;11,7;-2,1;-5,9
+2025;"078157";"Corigliano-Rossano";"078";"Cosenza";7,7;9,7;1,4;-0,6
+2025;"078045";"Cosenza";"078";"Cosenza";6,2;13,6;2,8;-4,6
+2025;"101009";"Cotronei";"101";"Crotone";7,9;13,5;2,6;-3
+2025;"078047";"Crosia";"078";"Cosenza";7,6;9;6,4;5
+2025;"101010";"Crotone";"101";"Crotone";7,1;10,2;-0,9;-4
+2025;"079039";"Curinga";"079";"Catanzaro";7,2;11,1;1;-2,9
+2025;"101012";"Cutro";"101";"Crotone";7,4;13,9;-7;-13,5
+2025;"079042";"Davoli";"079";"Catanzaro";6,1;10,3;6;1,8
+2025;"078048";"Diamante";"078";"Cosenza";5,5;13,5;2,2;-5,8
+2025;"078058";"Fuscaldo";"078";"Cosenza";6,9;11,2;4;-0,2
+2025;"080038";"Gioia Tauro";"080";"Reggio di Calabria";8,3;9,8;-0,6;-2,1
+2025;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";8,3;10,4;5,2;3,2
+2025;"079059";"Girifalco";"079";"Catanzaro";6,6;15,4;-1,6;-10,5
+2025;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,6;7,4;5,4;8,5
+2025;"079160";"Lamezia Terme";"079";"Catanzaro";7,4;10,5;-0,8;-4
+2025;"080043";"Locri";"080";"Reggio di Calabria";7,1;11,9;0,8;-4
+2025;"078070";"Luzzi";"078";"Cosenza";6,7;12,7;-1,8;-7,9
+2025;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";7,4;11,6;-2,3;-6,5
+2025;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";6,1;12,5;-2,4;-8,9
+2025;"078079";"Mendicino";"078";"Cosenza";6,8;9,6;-1,5;-4,3
+2025;"101015";"Mesoraca";"101";"Crotone";7,4;13,8;-9,7;-16,1
+2025;"102021";"Mileto";"102";"Vibo Valentia";7,8;12,8;-2;-6,9
+2025;"078081";"Montalto Uffugo";"078";"Cosenza";9,2;8,5;4,5;5,2
+2025;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,5;13,8;0,6;-6,6
+2025;"079081";"Montepaone";"079";"Catanzaro";7,3;8,7;11,2;9,8
+2025;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,6;14,2;-4,3;-12,9
+2025;"102025";"Nicotera";"102";"Vibo Valentia";6,4;12,6;1,8;-4,4
+2025;"080057";"Palmi";"080";"Reggio di Calabria";7,8;10,8;-2,6;-5,6
+2025;"078091";"Paola";"078";"Cosenza";6;12,8;-2,5;-9,3
+2025;"101017";"Petilia Policastro";"101";"Crotone";7,7;11,7;-4,1;-8
+2025;"102027";"Pizzo";"102";"Vibo Valentia";5,7;11,1;2,9;-2,5
+2025;"080061";"Polistena";"080";"Reggio di Calabria";7,5;10,3;-2,5;-5,3
+2025;"078101";"Praia a Mare";"078";"Cosenza";5,5;12,4;0,5;-6,4
+2025;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";6,4;12,4;-2,3;-8,3
+2025;"078102";"Rende";"078";"Cosenza";7;9,3;9,7;7,4
+2025;"080065";"Rizziconi";"080";"Reggio di Calabria";7,8;10,4;-1,4;-4
+2025;"101019";"Rocca di Neto";"101";"Crotone";9,1;11,1;-3,7;-5,7
+2025;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,9;14,3;-0,6;-9,1
+2025;"078104";"Roggiano Gravina";"078";"Cosenza";6,8;12,8;1,6;-4,3
+2025;"078105";"Rogliano";"078";"Cosenza";5,6;12,9;-2,6;-9,9
+2025;"080069";"Rosarno";"080";"Reggio di Calabria";9,3;9,8;5,4;4,9
+2025;"078119";"San Giovanni in Fiore";"078";"Cosenza";6,3;12,6;-6,1;-12,3
+2025;"078122";"San Lucido";"078";"Cosenza";7;10,6;22;18,4
+2025;"078123";"San Marco Argentano";"078";"Cosenza";6;12,5;9,3;2,8
+2025;"078138";"Scalea";"078";"Cosenza";6,2;10;11,5;7,8
+2025;"079127";"Sellia Marina";"079";"Catanzaro";8,1;9,4;5,1;3,8
+2025;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,9;10,5;-5,3;-7,9
+2025;"080088";"Siderno";"080";"Reggio di Calabria";7,6;10,1;1,1;-1,3
+2025;"079137";"Soverato";"079";"Catanzaro";4,8;13,1;1,2;-7,1
+2025;"078142";"Spezzano Albanese";"078";"Cosenza";7,3;13,9;-0,3;-6,9
+2025;"101025";"Strongoli";"101";"Crotone";7,5;11,2;-2;-5,6
+2025;"080093";"Taurianova";"080";"Reggio di Calabria";7,7;10,9;-3,2;-6,4
+2025;"078149";"Tortora";"078";"Cosenza";5,7;10,1;1,6;-2,8
+2025;"078150";"Trebisacce";"078";"Cosenza";6,4;12,8;3,9;-2,5
+2025;"102044";"Tropea";"102";"Vibo Valentia";5,6;13,7;-3;-11
+2025;"102047";"Vibo Valentia";"102";"Vibo Valentia";6,2;11,4;-4,6;-9,9
+2025;"078154";"Villapiana";"078";"Cosenza";7,3;13,1;7,2;1,4
+2025;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";6;12,3;-3,9;-10,1
+2026;"078003";"Acri";"078";"Cosenza";5,5;13,8;-5,1;-13,4
+2026;"078010";"Amantea";"078";"Cosenza";6,6;11,2;4,5;-0,1
+2026;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,4;13,4;-5,2;-11,2
+2026;"078015";"Belvedere Marittimo";"078";"Cosenza";5;12,9;7,4;-0,5
+2026;"078017";"Bisignano";"078";"Cosenza";7,3;12,3;0,3;-4,6
+2026;"079011";"Borgia";"079";"Catanzaro";6,9;11,4;-4,5;-9
+2026;"079012";"Botricello";"079";"Catanzaro";6,7;10,3;-1,5;-5,2
+2026;"080012";"Bovalino";"080";"Reggio di Calabria";9,5;11,6;1,5;-0,6
+2026;"078025";"Cariati";"078";"Cosenza";6,8;12,7;-3,9;-9,8
+2026;"078156";"Casali del Manco";"078";"Cosenza";6,8;12,5;-4;-9,8
+2026;"078029";"Cassano all'Ionio";"078";"Cosenza";7;12,5;-2,5;-7,9
+2026;"078031";"Castrolibero";"078";"Cosenza";5,5;11,4;-4,8;-10,6
+2026;"078033";"Castrovillari";"078";"Cosenza";6;12,6;-0,7;-7,3
+2026;"079023";"Catanzaro";"079";"Catanzaro";6,2;12,4;-3,7;-9,9
+2026;"080025";"Caulonia";"080";"Reggio di Calabria";7,2;13,1;6,9;0,9
+2026;"078040";"Cetraro";"078";"Cosenza";5,2;13,6;2,5;-5,9
+2026;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,4;15,1;-5,2;-13,9
+2026;"080027";"Cinquefrondi";"080";"Reggio di Calabria";8;10,2;-3,3;-5,6
+2026;"101008";"Cirò Marina";"101";"Crotone";8,2;10,8;-1,7;-4,3
+2026;"080028";"Cittanova";"080";"Reggio di Calabria";7,8;11,8;-2,3;-6,3
+2026;"078157";"Corigliano-Rossano";"078";"Cosenza";7,5;9,8;1,1;-1,2
+2026;"078045";"Cosenza";"078";"Cosenza";6;13,5;2,5;-4,9
+2026;"101009";"Cotronei";"101";"Crotone";7,7;13,3;2,4;-3,2
+2026;"078047";"Crosia";"078";"Cosenza";7,5;9,2;5,8;4,1
+2026;"101010";"Crotone";"101";"Crotone";6,9;10,3;-1,3;-4,7
+2026;"079039";"Curinga";"079";"Catanzaro";7,1;11,1;0,6;-3,4
+2026;"101012";"Cutro";"101";"Crotone";7,2;14,1;-7,1;-14
+2026;"079042";"Davoli";"079";"Catanzaro";6;10,4;5,6;1,2
+2026;"078048";"Diamante";"078";"Cosenza";5,3;13,6;2,1;-6,1
+2026;"078058";"Fuscaldo";"078";"Cosenza";6,7;11,3;3,4;-1,1
+2026;"080038";"Gioia Tauro";"080";"Reggio di Calabria";8,1;9,9;-0,7;-2,5
+2026;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";8,2;10,4;4,7;2,5
+2026;"079059";"Girifalco";"079";"Catanzaro";6,4;15,3;-1,8;-10,7
+2026;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,5;7,5;4,8;7,8
+2026;"079160";"Lamezia Terme";"079";"Catanzaro";7,2;10,6;-1,2;-4,6
+2026;"080043";"Locri";"080";"Reggio di Calabria";6,9;11,9;0,5;-4,5
+2026;"078070";"Luzzi";"078";"Cosenza";6,5;12,8;-1,9;-8,2
+2026;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";7,1;11,6;-2,5;-7
+2026;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,9;12,6;-2,6;-9,3
+2026;"078079";"Mendicino";"078";"Cosenza";6,6;9,7;-1,7;-4,8
+2026;"101015";"Mesoraca";"101";"Crotone";7,1;13,7;-9,8;-16,4
+2026;"102021";"Mileto";"102";"Vibo Valentia";7,7;12,7;-2,1;-7,1
+2026;"078081";"Montalto Uffugo";"078";"Cosenza";8,8;8,5;4;4,2
+2026;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,3;13,8;0,3;-7,2
+2026;"079081";"Montepaone";"079";"Catanzaro";7,1;8,9;10,3;8,6
+2026;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,5;14,4;-4,3;-13,2
+2026;"102025";"Nicotera";"102";"Vibo Valentia";6,3;12,7;1,5;-4,9
+2026;"080057";"Palmi";"080";"Reggio di Calabria";7,6;10,9;-2,7;-5,9
+2026;"078091";"Paola";"078";"Cosenza";5,8;12,8;-2,6;-9,6
+2026;"101017";"Petilia Policastro";"101";"Crotone";7,6;11,7;-4,1;-8,3
+2026;"102027";"Pizzo";"102";"Vibo Valentia";5,6;11,2;2,6;-3,1
+2026;"080061";"Polistena";"080";"Reggio di Calabria";7,3;10,3;-2,6;-5,6
+2026;"078101";"Praia a Mare";"078";"Cosenza";5,4;12,6;0,4;-6,8
+2026;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";6,2;12,5;-2,5;-8,7
+2026;"078102";"Rende";"078";"Cosenza";6,8;9,4;9;6,4
+2026;"080065";"Rizziconi";"080";"Reggio di Calabria";7,7;10,4;-1,6;-4,3
+2026;"101019";"Rocca di Neto";"101";"Crotone";8,9;11,2;-3,9;-6,2
+2026;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,8;14,4;-0,7;-9,4
+2026;"078104";"Roggiano Gravina";"078";"Cosenza";6,7;12,8;1,1;-4,9
+2026;"078105";"Rogliano";"078";"Cosenza";5,5;13;-2,9;-10,4
+2026;"080069";"Rosarno";"080";"Reggio di Calabria";9,3;9,8;4,6;4,1
+2026;"078119";"San Giovanni in Fiore";"078";"Cosenza";6,2;12,7;-6,1;-12,7
+2026;"078122";"San Lucido";"078";"Cosenza";6,9;10,6;20,3;16,7
+2026;"078123";"San Marco Argentano";"078";"Cosenza";5,8;12,3;7,9;1,5
+2026;"078138";"Scalea";"078";"Cosenza";6,1;10,1;10,9;6,9
+2026;"079127";"Sellia Marina";"079";"Catanzaro";7,9;9,6;4,6;2,9
+2026;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,7;10,6;-5,4;-8,3
+2026;"080088";"Siderno";"080";"Reggio di Calabria";7,4;10,1;0,9;-1,8
+2026;"079137";"Soverato";"079";"Catanzaro";4,7;13,3;1;-7,6
+2026;"078142";"Spezzano Albanese";"078";"Cosenza";7,1;13,9;-0,5;-7,3
+2026;"101025";"Strongoli";"101";"Crotone";7,3;11,3;-2,1;-6
+2026;"080093";"Taurianova";"080";"Reggio di Calabria";7,5;11;-3,3;-6,8
+2026;"078149";"Tortora";"078";"Cosenza";5,6;10,3;1,5;-3,3
+2026;"078150";"Trebisacce";"078";"Cosenza";6,3;12,9;3,6;-3
+2026;"102044";"Tropea";"102";"Vibo Valentia";5,5;13,8;-3,1;-11,4
+2026;"102047";"Vibo Valentia";"102";"Vibo Valentia";6,1;11,6;-4,6;-10,2
+2026;"078154";"Villapiana";"078";"Cosenza";7,2;13,1;6,7;0,8
+2026;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,8;12,4;-4;-10,6
+2027;"078003";"Acri";"078";"Cosenza";5,4;14;-5,2;-13,8
+2027;"078010";"Amantea";"078";"Cosenza";6,5;11,3;4,1;-0,7
+2027;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,3;13,5;-5,5;-11,7
+2027;"078015";"Belvedere Marittimo";"078";"Cosenza";5;13;6,9;-1,2
+2027;"078017";"Bisignano";"078";"Cosenza";7,2;12,3;0;-5,1
+2027;"079011";"Borgia";"079";"Catanzaro";6,7;11,6;-4,5;-9,3
+2027;"079012";"Botricello";"079";"Catanzaro";6,5;10,5;-1,8;-5,8
+2027;"080012";"Bovalino";"080";"Reggio di Calabria";9,3;11,6;1,3;-1
+2027;"078025";"Cariati";"078";"Cosenza";6,7;12,9;-4,3;-10,5
+2027;"078156";"Casali del Manco";"078";"Cosenza";6,6;12,6;-4,1;-10,1
+2027;"078029";"Cassano all'Ionio";"078";"Cosenza";6,9;12,5;-2,8;-8,5
+2027;"078031";"Castrolibero";"078";"Cosenza";5,4;11,7;-4,8;-11
+2027;"078033";"Castrovillari";"078";"Cosenza";6;12,8;-0,9;-7,7
+2027;"079023";"Catanzaro";"079";"Catanzaro";6,1;12,6;-3,7;-10,2
+2027;"080025";"Caulonia";"080";"Reggio di Calabria";7,1;13,1;6,2;0,2
+2027;"078040";"Cetraro";"078";"Cosenza";5,1;13,7;2,2;-6,4
+2027;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,3;15,3;-5,4;-14,4
+2027;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,9;10,3;-3,5;-6
+2027;"101008";"Cirò Marina";"101";"Crotone";8;10,9;-1,8;-4,7
+2027;"080028";"Cittanova";"080";"Reggio di Calabria";7,6;11,8;-2,5;-6,7
+2027;"078157";"Corigliano-Rossano";"078";"Cosenza";7,4;10;0,8;-1,8
+2027;"078045";"Cosenza";"078";"Cosenza";5,9;13,5;2,3;-5,3
+2027;"101009";"Cotronei";"101";"Crotone";7,6;13,2;2,2;-3,5
+2027;"078047";"Crosia";"078";"Cosenza";7,4;9,3;5,2;3,2
+2027;"101010";"Crotone";"101";"Crotone";6,8;10,5;-1,6;-5,3
+2027;"079039";"Curinga";"079";"Catanzaro";7,1;11,2;0,3;-3,8
+2027;"101012";"Cutro";"101";"Crotone";7;14,3;-7,2;-14,5
+2027;"079042";"Davoli";"079";"Catanzaro";5,9;10,6;5,2;0,5
+2027;"078048";"Diamante";"078";"Cosenza";5,2;13,7;2;-6,5
+2027;"078058";"Fuscaldo";"078";"Cosenza";6,6;11,4;2,7;-2,1
+2027;"080038";"Gioia Tauro";"080";"Reggio di Calabria";8;10;-0,9;-2,9
+2027;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";8;10,4;4,1;1,7
+2027;"079059";"Girifalco";"079";"Catanzaro";6,2;15,3;-1,9;-11
+2027;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,5;7,7;4,3;7,2
+2027;"079160";"Lamezia Terme";"079";"Catanzaro";7,1;10,7;-1,5;-5,2
+2027;"080043";"Locri";"080";"Reggio di Calabria";6,8;12,1;0,3;-5
+2027;"078070";"Luzzi";"078";"Cosenza";6,3;12,9;-2,1;-8,6
+2027;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,9;11,7;-2,6;-7,4
+2027;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,8;12,7;-2,9;-9,8
+2027;"078079";"Mendicino";"078";"Cosenza";6,5;10;-2;-5,5
+2027;"101015";"Mesoraca";"101";"Crotone";6,9;13,7;-9,8;-16,7
+2027;"102021";"Mileto";"102";"Vibo Valentia";7,6;12,7;-2,2;-7,3
+2027;"078081";"Montalto Uffugo";"078";"Cosenza";8,5;8,6;3,4;3,2
+2027;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,2;13,9;-0,1;-7,8
+2027;"079081";"Montepaone";"079";"Catanzaro";7;9,1;9,5;7,4
+2027;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,4;14,6;-4,4;-13,6
+2027;"102025";"Nicotera";"102";"Vibo Valentia";6,2;12,8;1,2;-5,4
+2027;"080057";"Palmi";"080";"Reggio di Calabria";7,5;11,1;-2,7;-6,3
+2027;"078091";"Paola";"078";"Cosenza";5,7;12,9;-2,8;-10
+2027;"101017";"Petilia Policastro";"101";"Crotone";7,4;11,8;-4,2;-8,6
+2027;"102027";"Pizzo";"102";"Vibo Valentia";5,5;11,4;2,2;-3,7
+2027;"080061";"Polistena";"080";"Reggio di Calabria";7,2;10,4;-2,8;-6
+2027;"078101";"Praia a Mare";"078";"Cosenza";5,3;12,9;0,3;-7,2
+2027;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";6,1;12,6;-2,7;-9,2
+2027;"078102";"Rende";"078";"Cosenza";6,6;9,6;8,3;5,3
+2027;"080065";"Rizziconi";"080";"Reggio di Calabria";7,7;10,5;-1,8;-4,6
+2027;"101019";"Rocca di Neto";"101";"Crotone";8,7;11,4;-4,2;-6,8
+2027;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,7;14,5;-0,9;-9,7
+2027;"078104";"Roggiano Gravina";"078";"Cosenza";6,6;12,8;0,6;-5,6
+2027;"078105";"Rogliano";"078";"Cosenza";5,4;13,1;-3,2;-10,8
+2027;"080069";"Rosarno";"080";"Reggio di Calabria";9,2;9,9;3,9;3,3
+2027;"078119";"San Giovanni in Fiore";"078";"Cosenza";6,1;12,9;-6,2;-13,1
+2027;"078122";"San Lucido";"078";"Cosenza";6,8;10,6;18,7;15
+2027;"078123";"San Marco Argentano";"078";"Cosenza";5,7;12,2;6,6;0,1
+2027;"078138";"Scalea";"078";"Cosenza";6;10,3;10,3;6
+2027;"079127";"Sellia Marina";"079";"Catanzaro";7,7;9,7;4,1;2,1
+2027;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,6;10,8;-5,4;-8,7
+2027;"080088";"Siderno";"080";"Reggio di Calabria";7,3;10,2;0,7;-2,2
+2027;"079137";"Soverato";"079";"Catanzaro";4,7;13,6;0,9;-8
+2027;"078142";"Spezzano Albanese";"078";"Cosenza";7;14;-0,7;-7,7
+2027;"101025";"Strongoli";"101";"Crotone";7,2;11,4;-2,2;-6,4
+2027;"080093";"Taurianova";"080";"Reggio di Calabria";7,4;11,2;-3,3;-7,2
+2027;"078149";"Tortora";"078";"Cosenza";5,5;10,6;1,4;-3,8
+2027;"078150";"Trebisacce";"078";"Cosenza";6,3;13;3,2;-3,5
+2027;"102044";"Tropea";"102";"Vibo Valentia";5,3;14;-3,2;-11,9
+2027;"102047";"Vibo Valentia";"102";"Vibo Valentia";6;11,8;-4,7;-10,5
+2027;"078154";"Villapiana";"078";"Cosenza";7,1;13,2;6,2;0,1
+2027;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,7;12,6;-4,2;-11,1
+2028;"078003";"Acri";"078";"Cosenza";5,4;14,2;-5,2;-14,1
+2028;"078010";"Amantea";"078";"Cosenza";6,4;11,4;4;-1
+2028;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,2;13,6;-5,5;-12
+2028;"078015";"Belvedere Marittimo";"078";"Cosenza";4,9;13,1;6,6;-1,6
+2028;"078017";"Bisignano";"078";"Cosenza";7,1;12,4;-0,1;-5,4
+2028;"079011";"Borgia";"079";"Catanzaro";6,6;11,7;-4,5;-9,6
+2028;"079012";"Botricello";"079";"Catanzaro";6,3;10,6;-1,8;-6,2
+2028;"080012";"Bovalino";"080";"Reggio di Calabria";9,1;11,6;1,2;-1,4
+2028;"078025";"Cariati";"078";"Cosenza";6,7;13,2;-4,4;-11
+2028;"078156";"Casali del Manco";"078";"Cosenza";6,5;12,7;-4,1;-10,3
+2028;"078029";"Cassano all'Ionio";"078";"Cosenza";6,7;12,6;-2,9;-8,8
+2028;"078031";"Castrolibero";"078";"Cosenza";5,3;12;-4,7;-11,4
+2028;"078033";"Castrovillari";"078";"Cosenza";5,9;12,9;-0,9;-8
+2028;"079023";"Catanzaro";"079";"Catanzaro";6;12,8;-3,7;-10,5
+2028;"080025";"Caulonia";"080";"Reggio di Calabria";7;13;5,9;-0,2
+2028;"078040";"Cetraro";"078";"Cosenza";5;13,8;2;-6,7
+2028;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,2;15,4;-5,4;-14,7
+2028;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,7;10,5;-3,6;-6,4
+2028;"101008";"Cirò Marina";"101";"Crotone";7,9;11,1;-1,8;-5,1
+2028;"080028";"Cittanova";"080";"Reggio di Calabria";7,5;11,9;-2,5;-7
+2028;"078157";"Corigliano-Rossano";"078";"Cosenza";7,2;10,1;0,7;-2,2
+2028;"078045";"Cosenza";"078";"Cosenza";5,9;13,4;2,1;-5,5
+2028;"101009";"Cotronei";"101";"Crotone";7,4;13,1;2,1;-3,6
+2028;"078047";"Crosia";"078";"Cosenza";7,3;9,5;4,9;2,7
+2028;"101010";"Crotone";"101";"Crotone";6,7;10,7;-1,7;-5,7
+2028;"079039";"Curinga";"079";"Catanzaro";7;11,3;0,1;-4,1
+2028;"101012";"Cutro";"101";"Crotone";6,9;14,6;-7,1;-14,8
+2028;"079042";"Davoli";"079";"Catanzaro";5,8;10,8;4,9;-0,1
+2028;"078048";"Diamante";"078";"Cosenza";5,1;13,9;2,1;-6,8
+2028;"078058";"Fuscaldo";"078";"Cosenza";6,4;11,6;2,5;-2,7
+2028;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,9;10,1;-1;-3,2
+2028;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,9;10,4;3,8;1,3
+2028;"079059";"Girifalco";"079";"Catanzaro";6,1;15,3;-1,9;-11,2
+2028;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,5;7,8;4,1;6,7
+2028;"079160";"Lamezia Terme";"079";"Catanzaro";6,9;10,9;-1,6;-5,6
+2028;"080043";"Locri";"080";"Reggio di Calabria";6,7;12,2;0,2;-5,3
+2028;"078070";"Luzzi";"078";"Cosenza";6,2;13;-2,1;-8,9
+2028;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,7;11,9;-2,7;-7,8
+2028;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,6;12,9;-2,9;-10,2
+2028;"078079";"Mendicino";"078";"Cosenza";6,4;10,2;-2,1;-5,9
+2028;"101015";"Mesoraca";"101";"Crotone";6,7;13,8;-9,9;-17
+2028;"102021";"Mileto";"102";"Vibo Valentia";7,5;12,7;-2,2;-7,4
+2028;"078081";"Montalto Uffugo";"078";"Cosenza";8,2;8,7;3,1;2,5
+2028;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,1;14;-0,2;-8,1
+2028;"079081";"Montepaone";"079";"Catanzaro";6,9;9,2;8,9;6,5
+2028;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,3;14,8;-4,3;-13,9
+2028;"102025";"Nicotera";"102";"Vibo Valentia";6,1;12,9;1,1;-5,7
+2028;"080057";"Palmi";"080";"Reggio di Calabria";7,3;11,2;-2,7;-6,6
+2028;"078091";"Paola";"078";"Cosenza";5,5;13;-2,8;-10,3
+2028;"101017";"Petilia Policastro";"101";"Crotone";7,3;11,9;-4,1;-8,8
+2028;"102027";"Pizzo";"102";"Vibo Valentia";5,4;11,6;2,1;-4,2
+2028;"080061";"Polistena";"080";"Reggio di Calabria";7;10,4;-2,8;-6,2
+2028;"078101";"Praia a Mare";"078";"Cosenza";5,2;13,1;0,4;-7,5
+2028;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";6;12,8;-2,7;-9,5
+2028;"078102";"Rende";"078";"Cosenza";6,4;9,7;7,9;4,6
+2028;"080065";"Rizziconi";"080";"Reggio di Calabria";7,6;10,6;-1,8;-4,8
+2028;"101019";"Rocca di Neto";"101";"Crotone";8,6;11,5;-4,2;-7,2
+2028;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,6;14,7;-0,9;-10
+2028;"078104";"Roggiano Gravina";"078";"Cosenza";6,5;12,9;0,5;-5,9
+2028;"078105";"Rogliano";"078";"Cosenza";5,4;13,2;-3,2;-11,1
+2028;"080069";"Rosarno";"080";"Reggio di Calabria";9,2;9,9;3,6;2,9
+2028;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,9;13,2;-6,2;-13,4
+2028;"078122";"San Lucido";"078";"Cosenza";6,8;10,6;17,7;13,9
+2028;"078123";"San Marco Argentano";"078";"Cosenza";5,6;12,2;5,9;-0,7
+2028;"078138";"Scalea";"078";"Cosenza";5,8;10,4;10,1;5,5
+2028;"079127";"Sellia Marina";"079";"Catanzaro";7,5;9,9;3,9;1,5
+2028;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,4;11;-5,4;-9
+2028;"080088";"Siderno";"080";"Reggio di Calabria";7,2;10,3;0,6;-2,5
+2028;"079137";"Soverato";"079";"Catanzaro";4,6;13,8;0,9;-8,4
+2028;"078142";"Spezzano Albanese";"078";"Cosenza";6,8;14;-0,8;-8
+2028;"101025";"Strongoli";"101";"Crotone";7,1;11,6;-2,2;-6,8
+2028;"080093";"Taurianova";"080";"Reggio di Calabria";7,2;11,3;-3,3;-7,4
+2028;"078149";"Tortora";"078";"Cosenza";5,4;11;1,4;-4,2
+2028;"078150";"Trebisacce";"078";"Cosenza";6,2;13,1;3,1;-3,8
+2028;"102044";"Tropea";"102";"Vibo Valentia";5,2;14,2;-3,2;-12,2
+2028;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;12;-4,6;-10,8
+2028;"078154";"Villapiana";"078";"Cosenza";7;13,3;5,9;-0,3
+2028;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,5;12,7;-4,2;-11,4
+2029;"078003";"Acri";"078";"Cosenza";5,3;14,4;-5,3;-14,4
+2029;"078010";"Amantea";"078";"Cosenza";6,4;11,5;3,8;-1,3
+2029;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;13,8;-5,6;-12,3
+2029;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,2;6,4;-2
+2029;"078017";"Bisignano";"078";"Cosenza";7;12,4;-0,3;-5,7
+2029;"079011";"Borgia";"079";"Catanzaro";6,5;11,9;-4,5;-9,9
+2029;"079012";"Botricello";"079";"Catanzaro";6,1;10,8;-1,9;-6,6
+2029;"080012";"Bovalino";"080";"Reggio di Calabria";8,9;11,6;1,1;-1,7
+2029;"078025";"Cariati";"078";"Cosenza";6,6;13,5;-4,6;-11,5
+2029;"078156";"Casali del Manco";"078";"Cosenza";6,4;12,8;-4,1;-10,5
+2029;"078029";"Cassano all'Ionio";"078";"Cosenza";6,6;12,7;-2,9;-9,1
+2029;"078031";"Castrolibero";"078";"Cosenza";5,2;12,4;-4,7;-11,8
+2029;"078033";"Castrovillari";"078";"Cosenza";5,8;13,1;-1;-8,2
+2029;"079023";"Catanzaro";"079";"Catanzaro";5,9;13;-3,7;-10,8
+2029;"080025";"Caulonia";"080";"Reggio di Calabria";6,9;13;5,6;-0,5
+2029;"078040";"Cetraro";"078";"Cosenza";4,9;13,9;1,9;-7,1
+2029;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6,1;15,6;-5,5;-15
+2029;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,6;10,6;-3,7;-6,8
+2029;"101008";"Cirò Marina";"101";"Crotone";7,7;11,3;-1,9;-5,4
+2029;"080028";"Cittanova";"080";"Reggio di Calabria";7,3;12;-2,6;-7,3
+2029;"078157";"Corigliano-Rossano";"078";"Cosenza";7,1;10,3;0,5;-2,6
+2029;"078045";"Cosenza";"078";"Cosenza";5,8;13,5;2;-5,7
+2029;"101009";"Cotronei";"101";"Crotone";7,3;13,1;1,9;-3,8
+2029;"078047";"Crosia";"078";"Cosenza";7,2;9,6;4,6;2,1
+2029;"101010";"Crotone";"101";"Crotone";6,6;10,9;-1,8;-6,1
+2029;"079039";"Curinga";"079";"Catanzaro";7;11,4;0;-4,5
+2029;"101012";"Cutro";"101";"Crotone";6,7;14,8;-7;-15,1
+2029;"079042";"Davoli";"079";"Catanzaro";5,7;11;4,7;-0,6
+2029;"078048";"Diamante";"078";"Cosenza";5;14;2,1;-7
+2029;"078058";"Fuscaldo";"078";"Cosenza";6,3;11,7;2,2;-3,3
+2029;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;10,3;-1;-3,5
+2029;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;10,5;3,5;0,9
+2029;"079059";"Girifalco";"079";"Catanzaro";5,9;15,4;-2;-11,4
+2029;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,4;8;3,9;6,3
+2029;"079160";"Lamezia Terme";"079";"Catanzaro";6,8;11;-1,8;-6
+2029;"080043";"Locri";"080";"Reggio di Calabria";6,6;12,3;0,1;-5,6
+2029;"078070";"Luzzi";"078";"Cosenza";6,1;13,1;-2,1;-9,1
+2029;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,5;12;-2,7;-8,2
+2029;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,5;13,1;-3;-10,5
+2029;"078079";"Mendicino";"078";"Cosenza";6,3;10,4;-2,2;-6,3
+2029;"101015";"Mesoraca";"101";"Crotone";6,5;13,8;-9,9;-17,2
+2029;"102021";"Mileto";"102";"Vibo Valentia";7,4;12,7;-2,2;-7,5
+2029;"078081";"Montalto Uffugo";"078";"Cosenza";7,9;8,8;2,8;1,9
+2029;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6;14,1;-0,3;-8,4
+2029;"079081";"Montepaone";"079";"Catanzaro";6,7;9,4;8,3;5,7
+2029;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,2;15;-4,3;-14,1
+2029;"102025";"Nicotera";"102";"Vibo Valentia";6;13,1;1;-6
+2029;"080057";"Palmi";"080";"Reggio di Calabria";7,2;11,4;-2,7;-6,9
+2029;"078091";"Paola";"078";"Cosenza";5,4;13,1;-2,8;-10,5
+2029;"101017";"Petilia Policastro";"101";"Crotone";7,1;12;-4,1;-9
+2029;"102027";"Pizzo";"102";"Vibo Valentia";5,3;11,8;1,9;-4,6
+2029;"080061";"Polistena";"080";"Reggio di Calabria";6,9;10,5;-2,9;-6,5
+2029;"078101";"Praia a Mare";"078";"Cosenza";5,2;13,4;0,4;-7,8
+2029;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,9;12,9;-2,8;-9,8
+2029;"078102";"Rende";"078";"Cosenza";6,3;9,9;7,5;3,8
+2029;"080065";"Rizziconi";"080";"Reggio di Calabria";7,5;10,7;-1,8;-5
+2029;"101019";"Rocca di Neto";"101";"Crotone";8,4;11,7;-4,3;-7,5
+2029;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;14,8;-0,9;-10,2
+2029;"078104";"Roggiano Gravina";"078";"Cosenza";6,5;13;0,3;-6,3
+2029;"078105";"Rogliano";"078";"Cosenza";5,3;13,3;-3,3;-11,3
+2029;"080069";"Rosarno";"080";"Reggio di Calabria";9,2;9,9;3,2;2,5
+2029;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,8;13,4;-6,2;-13,7
+2029;"078122";"San Lucido";"078";"Cosenza";6,7;10,6;16,8;12,9
+2029;"078123";"San Marco Argentano";"078";"Cosenza";5,5;12,2;5,3;-1,4
+2029;"078138";"Scalea";"078";"Cosenza";5,7;10,6;9,8;4,9
+2029;"079127";"Sellia Marina";"079";"Catanzaro";7,4;10,1;3,6;0,9
+2029;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,3;11,2;-5,4;-9,3
+2029;"080088";"Siderno";"080";"Reggio di Calabria";7,1;10,5;0,5;-2,9
+2029;"079137";"Soverato";"079";"Catanzaro";4,5;14,1;0,8;-8,8
+2029;"078142";"Spezzano Albanese";"078";"Cosenza";6,7;14,1;-0,9;-8,3
+2029;"101025";"Strongoli";"101";"Crotone";7;11,7;-2,3;-7
+2029;"080093";"Taurianova";"080";"Reggio di Calabria";7,1;11,5;-3,3;-7,7
+2029;"078149";"Tortora";"078";"Cosenza";5,3;11,2;1,4;-4,5
+2029;"078150";"Trebisacce";"078";"Cosenza";6,1;13,2;3;-4,1
+2029;"102044";"Tropea";"102";"Vibo Valentia";5;14,4;-3,2;-12,5
+2029;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,8;12,3;-4,6;-11
+2029;"078154";"Villapiana";"078";"Cosenza";7;13,3;5,7;-0,7
+2029;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,4;12,9;-4,2;-11,8
+2030;"078003";"Acri";"078";"Cosenza";5,3;14,6;-5,2;-14,5
+2030;"078010";"Amantea";"078";"Cosenza";6,3;11,6;3,8;-1,5
+2030;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;13,9;-5,5;-12,3
+2030;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,2;6,4;-2,1
+2030;"078017";"Bisignano";"078";"Cosenza";7;12,5;-0,2;-5,7
+2030;"079011";"Borgia";"079";"Catanzaro";6,4;12,1;-4,4;-10,1
+2030;"079012";"Botricello";"079";"Catanzaro";6;11;-1,9;-6,9
+2030;"080012";"Bovalino";"080";"Reggio di Calabria";8,8;11,7;1,1;-1,8
+2030;"078025";"Cariati";"078";"Cosenza";6,6;13,8;-4,5;-11,6
+2030;"078156";"Casali del Manco";"078";"Cosenza";6,3;12,9;-4;-10,6
+2030;"078029";"Cassano all'Ionio";"078";"Cosenza";6,5;12,9;-2,8;-9,1
+2030;"078031";"Castrolibero";"078";"Cosenza";5,2;12,7;-4,6;-12,1
+2030;"078033";"Castrovillari";"078";"Cosenza";5,8;13,3;-0,9;-8,3
+2030;"079023";"Catanzaro";"079";"Catanzaro";5,8;13,2;-3,6;-10,9
+2030;"080025";"Caulonia";"080";"Reggio di Calabria";6,8;13;5,6;-0,6
+2030;"078040";"Cetraro";"078";"Cosenza";4,9;14;2;-7,1
+2030;"079029";"Chiaravalle Centrale";"079";"Catanzaro";6;15,8;-5,3;-15,1
+2030;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,5;10,7;-3,7;-6,9
+2030;"101008";"Cirò Marina";"101";"Crotone";7,7;11,4;-1,8;-5,6
+2030;"080028";"Cittanova";"080";"Reggio di Calabria";7,3;12,1;-2,5;-7,4
+2030;"078157";"Corigliano-Rossano";"078";"Cosenza";7,1;10,5;0,6;-2,8
+2030;"078045";"Cosenza";"078";"Cosenza";5,8;13,5;2;-5,8
+2030;"101009";"Cotronei";"101";"Crotone";7,3;13;1,9;-3,8
+2030;"078047";"Crosia";"078";"Cosenza";7,2;9,8;4,5;1,9
+2030;"101010";"Crotone";"101";"Crotone";6,6;11,1;-1,6;-6,2
+2030;"079039";"Curinga";"079";"Catanzaro";6,9;11,5;0;-4,6
+2030;"101012";"Cutro";"101";"Crotone";6,7;15;-6,8;-15,1
+2030;"079042";"Davoli";"079";"Catanzaro";5,6;11,2;4,6;-0,9
+2030;"078048";"Diamante";"078";"Cosenza";4,9;14,2;2,2;-7,1
+2030;"078058";"Fuscaldo";"078";"Cosenza";6,2;11,9;2,2;-3,5
+2030;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;10,4;-1;-3,6
+2030;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;10,5;3,5;0,7
+2030;"079059";"Girifalco";"079";"Catanzaro";5,7;15,5;-1,9;-11,6
+2030;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,5;8,1;3,8;6,2
+2030;"079160";"Lamezia Terme";"079";"Catanzaro";6,7;11,2;-1,7;-6,2
+2030;"080043";"Locri";"080";"Reggio di Calabria";6,5;12,5;0,2;-5,7
+2030;"078070";"Luzzi";"078";"Cosenza";6;13,2;-2,1;-9,3
+2030;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,4;12,1;-2,7;-8,4
+2030;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,5;13,3;-2,8;-10,6
+2030;"078079";"Mendicino";"078";"Cosenza";6,2;10,7;-2,1;-6,6
+2030;"101015";"Mesoraca";"101";"Crotone";6,4;13,9;-9,9;-17,4
+2030;"102021";"Mileto";"102";"Vibo Valentia";7,4;12,7;-2,1;-7,4
+2030;"078081";"Montalto Uffugo";"078";"Cosenza";7,8;8,9;2,6;1,5
+2030;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,9;14,2;-0,2;-8,5
+2030;"079081";"Montepaone";"079";"Catanzaro";6,7;9,6;8;5,2
+2030;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,1;15,2;-4,1;-14,2
+2030;"102025";"Nicotera";"102";"Vibo Valentia";5,9;13,2;1,2;-6,1
+2030;"080057";"Palmi";"080";"Reggio di Calabria";7,1;11,5;-2,6;-7,1
+2030;"078091";"Paola";"078";"Cosenza";5,3;13,3;-2,7;-10,7
+2030;"101017";"Petilia Policastro";"101";"Crotone";7;12,2;-4;-9,2
+2030;"102027";"Pizzo";"102";"Vibo Valentia";5,3;12;1,9;-4,8
+2030;"080061";"Polistena";"080";"Reggio di Calabria";6,9;10,6;-2,8;-6,6
+2030;"078101";"Praia a Mare";"078";"Cosenza";5,1;13,6;0,6;-7,9
+2030;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,9;13,1;-2,7;-9,9
+2030;"078102";"Rende";"078";"Cosenza";6,2;10,1;7,3;3,4
+2030;"080065";"Rizziconi";"080";"Reggio di Calabria";7,5;10,8;-1,8;-5,1
+2030;"101019";"Rocca di Neto";"101";"Crotone";8,3;11,8;-4,2;-7,7
+2030;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;14,9;-0,8;-10,3
+2030;"078104";"Roggiano Gravina";"078";"Cosenza";6,4;13,1;0,3;-6,3
+2030;"078105";"Rogliano";"078";"Cosenza";5,3;13,4;-3,2;-11,3
+2030;"080069";"Rosarno";"080";"Reggio di Calabria";9,2;10;3,2;2,4
+2030;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,7;13,6;-6,1;-14
+2030;"078122";"San Lucido";"078";"Cosenza";6,6;10,6;16,4;12,4
+2030;"078123";"San Marco Argentano";"078";"Cosenza";5,4;12,2;5,2;-1,5
+2030;"078138";"Scalea";"078";"Cosenza";5,7;10,8;9,8;4,6
+2030;"079127";"Sellia Marina";"079";"Catanzaro";7,3;10,3;3,5;0,5
+2030;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,2;11,4;-5,3;-9,5
+2030;"080088";"Siderno";"080";"Reggio di Calabria";7,1;10,6;0,5;-3
+2030;"079137";"Soverato";"079";"Catanzaro";4,5;14,4;0,9;-9
+2030;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;14,1;-0,8;-8,3
+2030;"101025";"Strongoli";"101";"Crotone";6,9;11,9;-2,2;-7,1
+2030;"080093";"Taurianova";"080";"Reggio di Calabria";7;11,7;-3,3;-7,9
+2030;"078149";"Tortora";"078";"Cosenza";5,3;11,5;1,5;-4,7
+2030;"078150";"Trebisacce";"078";"Cosenza";6,1;13,3;3;-4,2
+2030;"102044";"Tropea";"102";"Vibo Valentia";5;14,6;-3;-12,6
+2030;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,8;12,5;-4,5;-11,2
+2030;"078154";"Villapiana";"078";"Cosenza";7;13,4;5,6;-0,9
+2030;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,3;13,1;-4,1;-11,9
+2031;"078003";"Acri";"078";"Cosenza";5,3;14,8;-5,1;-14,7
+2031;"078010";"Amantea";"078";"Cosenza";6,3;11,7;3,8;-1,6
+2031;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;14,1;-5,4;-12,4
+2031;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,3;6,4;-2,2
+2031;"078017";"Bisignano";"078";"Cosenza";7;12,6;-0,2;-5,8
+2031;"079011";"Borgia";"079";"Catanzaro";6,3;12,3;-4,2;-10,3
+2031;"079012";"Botricello";"079";"Catanzaro";5,9;11,2;-1,8;-7,1
+2031;"080012";"Bovalino";"080";"Reggio di Calabria";8,8;11,8;1,1;-1,9
+2031;"078025";"Cariati";"078";"Cosenza";6,6;14,1;-4,3;-11,8
+2031;"078156";"Casali del Manco";"078";"Cosenza";6,2;13,1;-3,8;-10,7
+2031;"078029";"Cassano all'Ionio";"078";"Cosenza";6,5;13;-2,7;-9,2
+2031;"078031";"Castrolibero";"078";"Cosenza";5,2;13;-4,5;-12,3
+2031;"078033";"Castrovillari";"078";"Cosenza";5,8;13,4;-0,8;-8,4
+2031;"079023";"Catanzaro";"079";"Catanzaro";5,8;13,4;-3,5;-11,1
+2031;"080025";"Caulonia";"080";"Reggio di Calabria";6,7;13;5,6;-0,6
+2031;"078040";"Cetraro";"078";"Cosenza";4,9;14,2;2;-7,2
+2031;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,9;16;-5,2;-15,3
+2031;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,4;10,9;-3,6;-7,1
+2031;"101008";"Cirò Marina";"101";"Crotone";7,6;11,6;-1,7;-5,8
+2031;"080028";"Cittanova";"080";"Reggio di Calabria";7,2;12,2;-2,4;-7,5
+2031;"078157";"Corigliano-Rossano";"078";"Cosenza";7,1;10,6;0,6;-2,9
+2031;"078045";"Cosenza";"078";"Cosenza";5,8;13,5;2;-5,8
+2031;"101009";"Cotronei";"101";"Crotone";7,3;13,1;1,9;-3,8
+2031;"078047";"Crosia";"078";"Cosenza";7,1;9,9;4,5;1,7
+2031;"101010";"Crotone";"101";"Crotone";6,6;11,3;-1,5;-6,3
+2031;"079039";"Curinga";"079";"Catanzaro";6,9;11,6;0;-4,7
+2031;"101012";"Cutro";"101";"Crotone";6,6;15,2;-6,6;-15,2
+2031;"079042";"Davoli";"079";"Catanzaro";5,5;11,4;4,6;-1,3
+2031;"078048";"Diamante";"078";"Cosenza";4,8;14,3;2,3;-7,2
+2031;"078058";"Fuscaldo";"078";"Cosenza";6,1;12;2,3;-3,7
+2031;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;10,5;-0,9;-3,7
+2031;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;10,6;3,4;0,6
+2031;"079059";"Girifalco";"079";"Catanzaro";5,6;15,6;-1,8;-11,7
+2031;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,6;8,3;3,8;6,1
+2031;"079160";"Lamezia Terme";"079";"Catanzaro";6,7;11,4;-1,6;-6,3
+2031;"080043";"Locri";"080";"Reggio di Calabria";6,5;12,6;0,3;-5,8
+2031;"078070";"Luzzi";"078";"Cosenza";5,9;13,3;-2,1;-9,4
+2031;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,4;12,3;-2,6;-8,5
+2031;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;13,5;-2,7;-10,7
+2031;"078079";"Mendicino";"078";"Cosenza";6,2;10,9;-2,1;-6,8
+2031;"101015";"Mesoraca";"101";"Crotone";6,3;14;-9,8;-17,6
+2031;"102021";"Mileto";"102";"Vibo Valentia";7,4;12,7;-2;-7,4
+2031;"078081";"Montalto Uffugo";"078";"Cosenza";7,7;9;2,5;1,1
+2031;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,9;14,3;-0,2;-8,6
+2031;"079081";"Montepaone";"079";"Catanzaro";6,7;9,8;7,7;4,7
+2031;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5,1;15,4;-4;-14,4
+2031;"102025";"Nicotera";"102";"Vibo Valentia";5,8;13,3;1,3;-6,2
+2031;"080057";"Palmi";"080";"Reggio di Calabria";7;11,7;-2,5;-7,2
+2031;"078091";"Paola";"078";"Cosenza";5,3;13,5;-2,6;-10,8
+2031;"101017";"Petilia Policastro";"101";"Crotone";6,9;12,3;-4;-9,3
+2031;"102027";"Pizzo";"102";"Vibo Valentia";5,3;12,2;2;-5
+2031;"080061";"Polistena";"080";"Reggio di Calabria";6,8;10,8;-2,7;-6,7
+2031;"078101";"Praia a Mare";"078";"Cosenza";5,1;13,9;0,8;-8,1
+2031;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;13,3;-2,6;-10,1
+2031;"078102";"Rende";"078";"Cosenza";6,1;10,3;7,1;2,9
+2031;"080065";"Rizziconi";"080";"Reggio di Calabria";7,4;10,9;-1,7;-5,2
+2031;"101019";"Rocca di Neto";"101";"Crotone";8,2;11,9;-4,1;-7,8
+2031;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;15,1;-0,8;-10,4
+2031;"078104";"Roggiano Gravina";"078";"Cosenza";6,4;13,2;0,4;-6,4
+2031;"078105";"Rogliano";"078";"Cosenza";5,4;13,6;-3,1;-11,3
+2031;"080069";"Rosarno";"080";"Reggio di Calabria";9,3;10,1;3,1;2,3
+2031;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,7;13,8;-6;-14,2
+2031;"078122";"San Lucido";"078";"Cosenza";6,6;10,7;16;11,9
+2031;"078123";"San Marco Argentano";"078";"Cosenza";5,4;12,2;5,2;-1,6
+2031;"078138";"Scalea";"078";"Cosenza";5,6;11;9,8;4,3
+2031;"079127";"Sellia Marina";"079";"Catanzaro";7,2;10,4;3,5;0,2
+2031;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,2;11,6;-5,2;-9,6
+2031;"080088";"Siderno";"080";"Reggio di Calabria";7;10,8;0,6;-3,1
+2031;"079137";"Soverato";"079";"Catanzaro";4,4;14,6;1;-9,2
+2031;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;14,2;-0,8;-8,4
+2031;"101025";"Strongoli";"101";"Crotone";6,9;12;-2,1;-7,2
+2031;"080093";"Taurianova";"080";"Reggio di Calabria";7;11,8;-3,2;-8,1
+2031;"078149";"Tortora";"078";"Cosenza";5,3;11,8;1,6;-4,9
+2031;"078150";"Trebisacce";"078";"Cosenza";6,2;13,4;3,1;-4,2
+2031;"102044";"Tropea";"102";"Vibo Valentia";4,9;14,8;-2,8;-12,7
+2031;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,8;12,7;-4,4;-11,3
+2031;"078154";"Villapiana";"078";"Cosenza";7;13,5;5,5;-1,1
+2031;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,3;13,4;-4;-12,1
+2032;"078003";"Acri";"078";"Cosenza";5,3;15;-5,1;-14,8
+2032;"078010";"Amantea";"078";"Cosenza";6,3;11,9;3,8;-1,8
+2032;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;14,2;-5,3;-12,5
+2032;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,4;6,4;-2,3
+2032;"078017";"Bisignano";"078";"Cosenza";7;12,7;-0,2;-5,9
+2032;"079011";"Borgia";"079";"Catanzaro";6,2;12,6;-4,1;-10,5
+2032;"079012";"Botricello";"079";"Catanzaro";5,9;11,4;-1,8;-7,3
+2032;"080012";"Bovalino";"080";"Reggio di Calabria";8,7;11,8;1,1;-2,1
+2032;"078025";"Cariati";"078";"Cosenza";6,6;14,3;-4,2;-11,9
+2032;"078156";"Casali del Manco";"078";"Cosenza";6,1;13,2;-3,7;-10,8
+2032;"078029";"Cassano all'Ionio";"078";"Cosenza";6,5;13,1;-2,6;-9,3
+2032;"078031";"Castrolibero";"078";"Cosenza";5,2;13,4;-4,4;-12,6
+2032;"078033";"Castrovillari";"078";"Cosenza";5,8;13,6;-0,7;-8,5
+2032;"079023";"Catanzaro";"079";"Catanzaro";5,7;13,6;-3,5;-11,3
+2032;"080025";"Caulonia";"080";"Reggio di Calabria";6,7;13;5,6;-0,7
+2032;"078040";"Cetraro";"078";"Cosenza";4,9;14,3;2,1;-7,3
+2032;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,9;16,2;-5,1;-15,5
+2032;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,3;11,1;-3,6;-7,4
+2032;"101008";"Cirò Marina";"101";"Crotone";7,5;11,8;-1,7;-6
+2032;"080028";"Cittanova";"080";"Reggio di Calabria";7,1;12,4;-2,3;-7,6
+2032;"078157";"Corigliano-Rossano";"078";"Cosenza";7;10,8;0,7;-3,1
+2032;"078045";"Cosenza";"078";"Cosenza";5,8;13,6;1,9;-5,9
+2032;"101009";"Cotronei";"101";"Crotone";7,3;13,1;1,9;-3,9
+2032;"078047";"Crosia";"078";"Cosenza";7,1;10;4,4;1,5
+2032;"101010";"Crotone";"101";"Crotone";6,6;11,5;-1,4;-6,4
+2032;"079039";"Curinga";"079";"Catanzaro";6,9;11,8;0,1;-4,8
+2032;"101012";"Cutro";"101";"Crotone";6,5;15,4;-6,4;-15,3
+2032;"079042";"Davoli";"079";"Catanzaro";5,5;11,6;4,5;-1,7
+2032;"078048";"Diamante";"078";"Cosenza";4,8;14,5;2,4;-7,3
+2032;"078058";"Fuscaldo";"078";"Cosenza";6;12,2;2,3;-4
+2032;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;10,6;-0,9;-3,8
+2032;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,7;10,6;3,4;0,5
+2032;"079059";"Girifalco";"079";"Catanzaro";5,5;15,7;-1,7;-11,9
+2032;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,6;8,4;3,7;5,9
+2032;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;11,6;-1,6;-6,5
+2032;"080043";"Locri";"080";"Reggio di Calabria";6,5;12,7;0,4;-5,9
+2032;"078070";"Luzzi";"078";"Cosenza";5,9;13,4;-2;-9,6
+2032;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,3;12,5;-2,6;-8,7
+2032;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;13,7;-2,6;-10,9
+2032;"078079";"Mendicino";"078";"Cosenza";6,2;11,2;-2;-7
+2032;"101015";"Mesoraca";"101";"Crotone";6,2;14,2;-9,8;-17,8
+2032;"102021";"Mileto";"102";"Vibo Valentia";7,4;12,8;-1,9;-7,3
+2032;"078081";"Montalto Uffugo";"078";"Cosenza";7,6;9,2;2,3;0,8
+2032;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,8;14,4;-0,1;-8,7
+2032;"079081";"Montepaone";"079";"Catanzaro";6,7;9,9;7,4;4,2
+2032;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5;15,6;-3,9;-14,5
+2032;"102025";"Nicotera";"102";"Vibo Valentia";5,7;13,4;1,4;-6,3
+2032;"080057";"Palmi";"080";"Reggio di Calabria";7;11,9;-2,5;-7,4
+2032;"078091";"Paola";"078";"Cosenza";5,2;13,8;-2,5;-11
+2032;"101017";"Petilia Policastro";"101";"Crotone";6,9;12,5;-3,9;-9,5
+2032;"102027";"Pizzo";"102";"Vibo Valentia";5,3;12,4;2;-5,1
+2032;"080061";"Polistena";"080";"Reggio di Calabria";6,8;10,9;-2,7;-6,8
+2032;"078101";"Praia a Mare";"078";"Cosenza";5;14,2;0,9;-8,2
+2032;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;13,4;-2,5;-10,2
+2032;"078102";"Rende";"078";"Cosenza";6;10,4;6,9;2,5
+2032;"080065";"Rizziconi";"080";"Reggio di Calabria";7,4;11;-1,6;-5,3
+2032;"101019";"Rocca di Neto";"101";"Crotone";8,1;12;-4,1;-8
+2032;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;15,3;-0,7;-10,5
+2032;"078104";"Roggiano Gravina";"078";"Cosenza";6,4;13,3;0,4;-6,5
+2032;"078105";"Rogliano";"078";"Cosenza";5,4;13,7;-2,9;-11,3
+2032;"080069";"Rosarno";"080";"Reggio di Calabria";9,3;10,1;3,1;2,3
+2032;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,6;14,1;-5,9;-14,5
+2032;"078122";"San Lucido";"078";"Cosenza";6,5;10,7;15,7;11,4
+2032;"078123";"San Marco Argentano";"078";"Cosenza";5,3;12,3;5,1;-1,8
+2032;"078138";"Scalea";"078";"Cosenza";5,6;11,2;9,7;4,1
+2032;"079127";"Sellia Marina";"079";"Catanzaro";7,1;10,6;3,4;-0,1
+2032;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,1;11,8;-5,1;-9,8
+2032;"080088";"Siderno";"080";"Reggio di Calabria";7;10,9;0,6;-3,3
+2032;"079137";"Soverato";"079";"Catanzaro";4,4;14,9;1,1;-9,4
+2032;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;14,3;-0,7;-8,5
+2032;"101025";"Strongoli";"101";"Crotone";6,9;12,2;-2,1;-7,4
+2032;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;12;-3,1;-8,2
+2032;"078149";"Tortora";"078";"Cosenza";5,3;12,1;1,7;-5,1
+2032;"078150";"Trebisacce";"078";"Cosenza";6,2;13,6;3,1;-4,3
+2032;"102044";"Tropea";"102";"Vibo Valentia";4,8;15;-2,6;-12,9
+2032;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,8;13;-4,3;-11,5
+2032;"078154";"Villapiana";"078";"Cosenza";7;13,6;5,4;-1,3
+2032;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,2;13,6;-3,9;-12,3
+2033;"078003";"Acri";"078";"Cosenza";5,3;15,2;-5;-14,9
+2033;"078010";"Amantea";"078";"Cosenza";6,3;12;3,8;-2
+2033;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;14,4;-5,3;-12,5
+2033;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,5;6,4;-2,4
+2033;"078017";"Bisignano";"078";"Cosenza";7;12,8;-0,2;-6
+2033;"079011";"Borgia";"079";"Catanzaro";6,1;12,8;-4;-10,7
+2033;"079012";"Botricello";"079";"Catanzaro";5,9;11,6;-1,7;-7,5
+2033;"080012";"Bovalino";"080";"Reggio di Calabria";8,7;11,9;1,1;-2,2
+2033;"078025";"Cariati";"078";"Cosenza";6,7;14,6;-4,1;-12,1
+2033;"078156";"Casali del Manco";"078";"Cosenza";6,1;13,4;-3,6;-11
+2033;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;13,3;-2,5;-9,4
+2033;"078031";"Castrolibero";"078";"Cosenza";5,2;13,7;-4,3;-12,8
+2033;"078033";"Castrovillari";"078";"Cosenza";5,8;13,8;-0,7;-8,7
+2033;"079023";"Catanzaro";"079";"Catanzaro";5,7;13,8;-3,4;-11,5
+2033;"080025";"Caulonia";"080";"Reggio di Calabria";6,6;13;5,6;-0,8
+2033;"078040";"Cetraro";"078";"Cosenza";5;14,5;2,2;-7,4
+2033;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;16,5;-5;-15,7
+2033;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,2;11,3;-3,5;-7,6
+2033;"101008";"Cirò Marina";"101";"Crotone";7,5;12;-1,6;-6,1
+2033;"080028";"Cittanova";"080";"Reggio di Calabria";7,1;12,5;-2,3;-7,7
+2033;"078157";"Corigliano-Rossano";"078";"Cosenza";7;11;0,7;-3,2
+2033;"078045";"Cosenza";"078";"Cosenza";5,8;13,7;1,9;-6
+2033;"101009";"Cotronei";"101";"Crotone";7,3;13,2;1,9;-3,9
+2033;"078047";"Crosia";"078";"Cosenza";7,1;10,2;4,4;1,3
+2033;"101010";"Crotone";"101";"Crotone";6,6;11,8;-1,3;-6,5
+2033;"079039";"Curinga";"079";"Catanzaro";6,8;11,9;0,1;-5
+2033;"101012";"Cutro";"101";"Crotone";6,5;15,6;-6,2;-15,4
+2033;"079042";"Davoli";"079";"Catanzaro";5,4;11,9;4,5;-2
+2033;"078048";"Diamante";"078";"Cosenza";4,7;14,6;2,5;-7,4
+2033;"078058";"Fuscaldo";"078";"Cosenza";5,9;12,4;2,3;-4,2
+2033;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;10,8;-0,8;-3,9
+2033;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,7;10,7;3,3;0,3
+2033;"079059";"Girifalco";"079";"Catanzaro";5,4;15,9;-1,6;-12,1
+2033;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,7;8,5;3,7;5,8
+2033;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;11,8;-1,5;-6,7
+2033;"080043";"Locri";"080";"Reggio di Calabria";6,5;12,9;0,4;-6
+2033;"078070";"Luzzi";"078";"Cosenza";5,9;13,6;-2;-9,7
+2033;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,3;12,7;-2,5;-8,9
+2033;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;14;-2,5;-11,1
+2033;"078079";"Mendicino";"078";"Cosenza";6,2;11,5;-2;-7,3
+2033;"101015";"Mesoraca";"101";"Crotone";6,1;14,4;-9,8;-18,1
+2033;"102021";"Mileto";"102";"Vibo Valentia";7,4;12,8;-1,8;-7,3
+2033;"078081";"Montalto Uffugo";"078";"Cosenza";7,6;9,3;2,2;0,5
+2033;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,8;14,6;0;-8,8
+2033;"079081";"Montepaone";"079";"Catanzaro";6,7;10,1;7,2;3,7
+2033;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";5;15,8;-3,7;-14,6
+2033;"102025";"Nicotera";"102";"Vibo Valentia";5,6;13,6;1,5;-6,4
+2033;"080057";"Palmi";"080";"Reggio di Calabria";7;12,1;-2,4;-7,5
+2033;"078091";"Paola";"078";"Cosenza";5,2;14;-2,4;-11,2
+2033;"101017";"Petilia Policastro";"101";"Crotone";6,8;12,6;-3,8;-9,6
+2033;"102027";"Pizzo";"102";"Vibo Valentia";5,3;12,6;2;-5,3
+2033;"080061";"Polistena";"080";"Reggio di Calabria";6,8;11,1;-2,6;-6,9
+2033;"078101";"Praia a Mare";"078";"Cosenza";5;14,4;1,1;-8,3
+2033;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;13,6;-2,5;-10,3
+2033;"078102";"Rende";"078";"Cosenza";5,9;10,6;6,8;2,1
+2033;"080065";"Rizziconi";"080";"Reggio di Calabria";7,3;11,2;-1,5;-5,4
+2033;"101019";"Rocca di Neto";"101";"Crotone";8;12,2;-4;-8,1
+2033;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;15,4;-0,6;-10,6
+2033;"078104";"Roggiano Gravina";"078";"Cosenza";6,4;13,4;0,5;-6,6
+2033;"078105";"Rogliano";"078";"Cosenza";5,4;13,9;-2,8;-11,3
+2033;"080069";"Rosarno";"080";"Reggio di Calabria";9,4;10,2;3;2,2
+2033;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,5;14,4;-5,9;-14,7
+2033;"078122";"San Lucido";"078";"Cosenza";6,5;10,8;15,3;11
+2033;"078123";"San Marco Argentano";"078";"Cosenza";5,3;12,3;5,1;-1,9
+2033;"078138";"Scalea";"078";"Cosenza";5,6;11,4;9,7;3,8
+2033;"079127";"Sellia Marina";"079";"Catanzaro";7,1;10,8;3,4;-0,4
+2033;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,1;12;-5,1;-10
+2033;"080088";"Siderno";"080";"Reggio di Calabria";7;11,1;0,6;-3,5
+2033;"079137";"Soverato";"079";"Catanzaro";4,4;15,1;1,1;-9,6
+2033;"078142";"Spezzano Albanese";"078";"Cosenza";6,5;14,4;-0,7;-8,6
+2033;"101025";"Strongoli";"101";"Crotone";6,9;12,4;-2;-7,5
+2033;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;12,2;-3,1;-8,4
+2033;"078149";"Tortora";"078";"Cosenza";5,3;12,4;1,7;-5,3
+2033;"078150";"Trebisacce";"078";"Cosenza";6,2;13,7;3,1;-4,4
+2033;"102044";"Tropea";"102";"Vibo Valentia";4,7;15,3;-2,5;-13
+2033;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,8;13,3;-4,2;-11,6
+2033;"078154";"Villapiana";"078";"Cosenza";7;13,7;5,3;-1,4
+2033;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,2;13,8;-3,8;-12,5
+2034;"078003";"Acri";"078";"Cosenza";5,3;15,5;-4,9;-15,1
+2034;"078010";"Amantea";"078";"Cosenza";6,2;12,2;3,8;-2,2
+2034;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;14,6;-5,2;-12,6
+2034;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,7;6,4;-2,5
+2034;"078017";"Bisignano";"078";"Cosenza";7;12,9;-0,1;-6
+2034;"079011";"Borgia";"079";"Catanzaro";6,1;13,1;-3,9;-10,9
+2034;"079012";"Botricello";"079";"Catanzaro";5,9;11,9;-1,7;-7,7
+2034;"080012";"Bovalino";"080";"Reggio di Calabria";8,7;12;1;-2,3
+2034;"078025";"Cariati";"078";"Cosenza";6,7;14,9;-4;-12,3
+2034;"078156";"Casali del Manco";"078";"Cosenza";6;13,6;-3,5;-11,1
+2034;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;13,5;-2,4;-9,5
+2034;"078031";"Castrolibero";"078";"Cosenza";5,2;14;-4,3;-13,1
+2034;"078033";"Castrovillari";"078";"Cosenza";5,8;14;-0,6;-8,8
+2034;"079023";"Catanzaro";"079";"Catanzaro";5,7;14,1;-3,3;-11,7
+2034;"080025";"Caulonia";"080";"Reggio di Calabria";6,6;13,1;5,7;-0,9
+2034;"078040";"Cetraro";"078";"Cosenza";5;14,7;2,2;-7,5
+2034;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;16,7;-4,9;-15,9
+2034;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,2;11,5;-3,5;-7,8
+2034;"101008";"Cirò Marina";"101";"Crotone";7,5;12,2;-1,6;-6,3
+2034;"080028";"Cittanova";"080";"Reggio di Calabria";7,1;12,6;-2,2;-7,8
+2034;"078157";"Corigliano-Rossano";"078";"Cosenza";7;11,2;0,7;-3,4
+2034;"078045";"Cosenza";"078";"Cosenza";5,8;13,8;1,9;-6,1
+2034;"101009";"Cotronei";"101";"Crotone";7,3;13,3;1,9;-4
+2034;"078047";"Crosia";"078";"Cosenza";7,1;10,3;4,3;1,2
+2034;"101010";"Crotone";"101";"Crotone";6,6;12;-1,2;-6,6
+2034;"079039";"Curinga";"079";"Catanzaro";6,8;12,1;0,1;-5,2
+2034;"101012";"Cutro";"101";"Crotone";6,4;15,8;-6;-15,4
+2034;"079042";"Davoli";"079";"Catanzaro";5,4;12,2;4,4;-2,4
+2034;"078048";"Diamante";"078";"Cosenza";4,7;14,8;2,6;-7,5
+2034;"078058";"Fuscaldo";"078";"Cosenza";5,9;12,6;2,3;-4,4
+2034;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;10,9;-0,8;-4
+2034;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;10,8;3,3;0,2
+2034;"079059";"Girifalco";"079";"Catanzaro";5,4;16,2;-1,5;-12,3
+2034;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,8;8,7;3,6;5,7
+2034;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;12;-1,5;-6,9
+2034;"080043";"Locri";"080";"Reggio di Calabria";6,5;13,1;0,5;-6,1
+2034;"078070";"Luzzi";"078";"Cosenza";5,9;13,8;-1,9;-9,8
+2034;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,3;12,9;-2,5;-9,1
+2034;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;14,3;-2,3;-11,2
+2034;"078079";"Mendicino";"078";"Cosenza";6,2;11,8;-1,9;-7,5
+2034;"101015";"Mesoraca";"101";"Crotone";6,1;14,7;-9,8;-18,3
+2034;"102021";"Mileto";"102";"Vibo Valentia";7,4;12,9;-1,7;-7,3
+2034;"078081";"Montalto Uffugo";"078";"Cosenza";7,6;9,5;2;0,1
+2034;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,8;14,7;0;-8,8
+2034;"079081";"Montepaone";"079";"Catanzaro";6,7;10,3;6,9;3,3
+2034;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;16;-3,6;-14,7
+2034;"102025";"Nicotera";"102";"Vibo Valentia";5,6;13,7;1,6;-6,5
+2034;"080057";"Palmi";"080";"Reggio di Calabria";7;12,3;-2,3;-7,7
+2034;"078091";"Paola";"078";"Cosenza";5,2;14,3;-2,3;-11,4
+2034;"101017";"Petilia Policastro";"101";"Crotone";6,8;12,8;-3,7;-9,8
+2034;"102027";"Pizzo";"102";"Vibo Valentia";5,3;12,8;2,1;-5,5
+2034;"080061";"Polistena";"080";"Reggio di Calabria";6,7;11,3;-2,5;-7,1
+2034;"078101";"Praia a Mare";"078";"Cosenza";5;14,7;1,3;-8,5
+2034;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;13,8;-2,4;-10,5
+2034;"078102";"Rende";"078";"Cosenza";5,9;10,8;6,6;1,7
+2034;"080065";"Rizziconi";"080";"Reggio di Calabria";7,2;11,4;-1,4;-5,6
+2034;"101019";"Rocca di Neto";"101";"Crotone";7,9;12,3;-3,9;-8,3
+2034;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;15,6;-0,5;-10,7
+2034;"078104";"Roggiano Gravina";"078";"Cosenza";6,4;13,6;0,5;-6,7
+2034;"078105";"Rogliano";"078";"Cosenza";5,4;14,1;-2,7;-11,3
+2034;"080069";"Rosarno";"080";"Reggio di Calabria";9,4;10,3;3;2,1
+2034;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,4;14,7;-5,8;-15
+2034;"078122";"San Lucido";"078";"Cosenza";6,4;10,8;15;10,6
+2034;"078123";"San Marco Argentano";"078";"Cosenza";5,3;12,5;5;-2,1
+2034;"078138";"Scalea";"078";"Cosenza";5,6;11,7;9,7;3,6
+2034;"079127";"Sellia Marina";"079";"Catanzaro";7;11;3,3;-0,6
+2034;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,1;12,3;-5;-10,2
+2034;"080088";"Siderno";"080";"Reggio di Calabria";7;11,3;0,6;-3,6
+2034;"079137";"Soverato";"079";"Catanzaro";4,4;15,4;1,2;-9,8
+2034;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;14,6;-0,6;-8,7
+2034;"101025";"Strongoli";"101";"Crotone";6,9;12,5;-2;-7,6
+2034;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;12,4;-3;-8,6
+2034;"078149";"Tortora";"078";"Cosenza";5,4;12,7;1,8;-5,5
+2034;"078150";"Trebisacce";"078";"Cosenza";6,2;13,9;3,1;-4,5
+2034;"102044";"Tropea";"102";"Vibo Valentia";4,7;15,5;-2,3;-13,2
+2034;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,8;13,5;-4,1;-11,8
+2034;"078154";"Villapiana";"078";"Cosenza";7;13,9;5,2;-1,6
+2034;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,2;14,1;-3,7;-12,6
+2035;"078003";"Acri";"078";"Cosenza";5,3;15,7;-4,9;-15,3
+2035;"078010";"Amantea";"078";"Cosenza";6,2;12,4;3,8;-2,4
+2035;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;14,7;-5,1;-12,8
+2035;"078015";"Belvedere Marittimo";"078";"Cosenza";4,8;13,8;6,4;-2,6
+2035;"078017";"Bisignano";"078";"Cosenza";7,1;13,1;-0,1;-6,2
+2035;"079011";"Borgia";"079";"Catanzaro";6;13,3;-3,9;-11,1
+2035;"079012";"Botricello";"079";"Catanzaro";5,9;12,1;-1,7;-7,9
+2035;"080012";"Bovalino";"080";"Reggio di Calabria";8,7;12,1;1;-2,4
+2035;"078025";"Cariati";"078";"Cosenza";6,7;15,2;-3,9;-12,5
+2035;"078156";"Casali del Manco";"078";"Cosenza";6;13,9;-3,4;-11,3
+2035;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;13,7;-2,3;-9,6
+2035;"078031";"Castrolibero";"078";"Cosenza";5,3;14,4;-4,2;-13,3
+2035;"078033";"Castrovillari";"078";"Cosenza";5,8;14,3;-0,5;-9
+2035;"079023";"Catanzaro";"079";"Catanzaro";5,7;14,4;-3,2;-11,9
+2035;"080025";"Caulonia";"080";"Reggio di Calabria";6,5;13,2;5,7;-1
+2035;"078040";"Cetraro";"078";"Cosenza";5,1;14,9;2,3;-7,6
+2035;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;17;-4,8;-16,1
+2035;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,2;11,7;-3,4;-8
+2035;"101008";"Cirò Marina";"101";"Crotone";7,5;12,5;-1,5;-6,5
+2035;"080028";"Cittanova";"080";"Reggio di Calabria";7;12,8;-2,1;-7,9
+2035;"078157";"Corigliano-Rossano";"078";"Cosenza";7;11,4;0,8;-3,6
+2035;"078045";"Cosenza";"078";"Cosenza";5,8;14;1,9;-6,3
+2035;"101009";"Cotronei";"101";"Crotone";7,4;13,4;1,9;-4,1
+2035;"078047";"Crosia";"078";"Cosenza";7,1;10,4;4,3;1
+2035;"101010";"Crotone";"101";"Crotone";6,6;12,2;-1,1;-6,7
+2035;"079039";"Curinga";"079";"Catanzaro";6,7;12,3;0,2;-5,4
+2035;"101012";"Cutro";"101";"Crotone";6,3;16;-5,8;-15,5
+2035;"079042";"Davoli";"079";"Catanzaro";5,4;12,4;4,4;-2,7
+2035;"078048";"Diamante";"078";"Cosenza";4,7;15;2,7;-7,7
+2035;"078058";"Fuscaldo";"078";"Cosenza";5,8;12,8;2,3;-4,6
+2035;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;11,1;-0,8;-4,1
+2035;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;10,9;3,2;0,1
+2035;"079059";"Girifalco";"079";"Catanzaro";5,4;16,5;-1,5;-12,6
+2035;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,8;8,9;3,5;5,5
+2035;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;12,2;-1,4;-7,1
+2035;"080043";"Locri";"080";"Reggio di Calabria";6,4;13,2;0,5;-6,2
+2035;"078070";"Luzzi";"078";"Cosenza";5,9;14;-1,9;-10
+2035;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,3;13,1;-2,5;-9,3
+2035;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;14,5;-2,2;-11,4
+2035;"078079";"Mendicino";"078";"Cosenza";6,2;12,1;-1,9;-7,8
+2035;"101015";"Mesoraca";"101";"Crotone";6,1;14,9;-9,8;-18,6
+2035;"102021";"Mileto";"102";"Vibo Valentia";7,4;13,1;-1,6;-7,3
+2035;"078081";"Montalto Uffugo";"078";"Cosenza";7,6;9,7;1,9;-0,2
+2035;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,8;14,8;0,1;-8,9
+2035;"079081";"Montepaone";"079";"Catanzaro";6,8;10,5;6,6;2,9
+2035;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;16,3;-3,5;-14,9
+2035;"102025";"Nicotera";"102";"Vibo Valentia";5,5;13,8;1,7;-6,6
+2035;"080057";"Palmi";"080";"Reggio di Calabria";7;12,5;-2,3;-7,9
+2035;"078091";"Paola";"078";"Cosenza";5,2;14,6;-2,2;-11,6
+2035;"101017";"Petilia Policastro";"101";"Crotone";6,7;13;-3,7;-10
+2035;"102027";"Pizzo";"102";"Vibo Valentia";5,3;13,1;2,1;-5,6
+2035;"080061";"Polistena";"080";"Reggio di Calabria";6,7;11,5;-2,5;-7,3
+2035;"078101";"Praia a Mare";"078";"Cosenza";4,9;15;1,4;-8,6
+2035;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;14;-2,3;-10,6
+2035;"078102";"Rende";"078";"Cosenza";5,8;11;6,5;1,3
+2035;"080065";"Rizziconi";"080";"Reggio di Calabria";7,2;11,6;-1,4;-5,8
+2035;"101019";"Rocca di Neto";"101";"Crotone";7,8;12,5;-3,8;-8,5
+2035;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;15,8;-0,5;-10,8
+2035;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;13,7;0,6;-6,8
+2035;"078105";"Rogliano";"078";"Cosenza";5,5;14,3;-2,5;-11,4
+2035;"080069";"Rosarno";"080";"Reggio di Calabria";9,5;10,4;2,9;2
+2035;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,4;15;-5,7;-15,3
+2035;"078122";"San Lucido";"078";"Cosenza";6,4;10,9;14,6;10,1
+2035;"078123";"San Marco Argentano";"078";"Cosenza";5,3;12,6;5;-2,3
+2035;"078138";"Scalea";"078";"Cosenza";5,6;11,9;9,6;3,3
+2035;"079127";"Sellia Marina";"079";"Catanzaro";7;11,2;3,2;-0,9
+2035;"102037";"Serra San Bruno";"102";"Vibo Valentia";7,1;12,5;-4,9;-10,4
+2035;"080088";"Siderno";"080";"Reggio di Calabria";7,1;11,5;0,6;-3,8
+2035;"079137";"Soverato";"079";"Catanzaro";4,4;15,7;1,3;-10
+2035;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;14,8;-0,6;-8,8
+2035;"101025";"Strongoli";"101";"Crotone";6,9;12,8;-1,9;-7,7
+2035;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;12,7;-2,9;-8,8
+2035;"078149";"Tortora";"078";"Cosenza";5,4;12,9;1,9;-5,6
+2035;"078150";"Trebisacce";"078";"Cosenza";6,3;14,1;3,2;-4,6
+2035;"102044";"Tropea";"102";"Vibo Valentia";4,7;15,8;-2,2;-13,3
+2035;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;13,8;-4;-11,9
+2035;"078154";"Villapiana";"078";"Cosenza";7,1;14;5,1;-1,8
+2035;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,2;14,4;-3,6;-12,8
+2036;"078003";"Acri";"078";"Cosenza";5,3;16;-4,8;-15,5
+2036;"078010";"Amantea";"078";"Cosenza";6,2;12,6;3,8;-2,6
+2036;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7,1;14,9;-5;-12,9
+2036;"078015";"Belvedere Marittimo";"078";"Cosenza";4,9;13,9;6,4;-2,7
+2036;"078017";"Bisignano";"078";"Cosenza";7,1;13,3;-0,1;-6,3
+2036;"079011";"Borgia";"079";"Catanzaro";6;13,6;-3,8;-11,4
+2036;"079012";"Botricello";"079";"Catanzaro";5,9;12,4;-1,6;-8,1
+2036;"080012";"Bovalino";"080";"Reggio di Calabria";8,7;12,3;1;-2,5
+2036;"078025";"Cariati";"078";"Cosenza";6,7;15,5;-3,8;-12,7
+2036;"078156";"Casali del Manco";"078";"Cosenza";6;14,1;-3,3;-11,5
+2036;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;13,9;-2,2;-9,7
+2036;"078031";"Castrolibero";"078";"Cosenza";5,3;14,7;-4,1;-13,5
+2036;"078033";"Castrovillari";"078";"Cosenza";5,8;14,5;-0,4;-9,2
+2036;"079023";"Catanzaro";"079";"Catanzaro";5,7;14,6;-3,2;-12,1
+2036;"080025";"Caulonia";"080";"Reggio di Calabria";6,5;13,3;5,7;-1,1
+2036;"078040";"Cetraro";"078";"Cosenza";5,1;15,1;2,3;-7,7
+2036;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;17,3;-4,8;-16,3
+2036;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,1;12;-3,4;-8,2
+2036;"101008";"Cirò Marina";"101";"Crotone";7,5;12,7;-1,5;-6,7
+2036;"080028";"Cittanova";"080";"Reggio di Calabria";7;13;-2,1;-8,1
+2036;"078157";"Corigliano-Rossano";"078";"Cosenza";7;11,6;0,8;-3,7
+2036;"078045";"Cosenza";"078";"Cosenza";5,9;14,1;1,9;-6,4
+2036;"101009";"Cotronei";"101";"Crotone";7,5;13,5;1,9;-4,2
+2036;"078047";"Crosia";"078";"Cosenza";7,1;10,6;4,3;0,8
+2036;"101010";"Crotone";"101";"Crotone";6,6;12,4;-0,9;-6,8
+2036;"079039";"Curinga";"079";"Catanzaro";6,6;12,5;0,2;-5,6
+2036;"101012";"Cutro";"101";"Crotone";6,2;16,2;-5,7;-15,7
+2036;"079042";"Davoli";"079";"Catanzaro";5,3;12,7;4,3;-3,1
+2036;"078048";"Diamante";"078";"Cosenza";4,7;15,3;2,7;-7,8
+2036;"078058";"Fuscaldo";"078";"Cosenza";5,8;13,1;2,4;-4,9
+2036;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;11,3;-0,7;-4,2
+2036;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;11;3,2;-0,1
+2036;"079059";"Girifalco";"079";"Catanzaro";5,4;16,7;-1,4;-12,8
+2036;"101013";"Isola di Capo Rizzuto";"101";"Crotone";10,9;9;3,5;5,4
+2036;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;12,5;-1,4;-7,3
+2036;"080043";"Locri";"080";"Reggio di Calabria";6,4;13,4;0,6;-6,3
+2036;"078070";"Luzzi";"078";"Cosenza";5,9;14,2;-1,9;-10,1
+2036;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,3;13,3;-2,4;-9,4
+2036;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;14,8;-2,1;-11,6
+2036;"078079";"Mendicino";"078";"Cosenza";6,2;12,4;-1,8;-8,1
+2036;"101015";"Mesoraca";"101";"Crotone";6,1;15,2;-9,8;-19
+2036;"102021";"Mileto";"102";"Vibo Valentia";7,4;13,2;-1,5;-7,3
+2036;"078081";"Montalto Uffugo";"078";"Cosenza";7,6;9,9;1,7;-0,5
+2036;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,8;15;0,2;-9
+2036;"079081";"Montepaone";"079";"Catanzaro";6,8;10,7;6,4;2,5
+2036;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;16,5;-3,4;-15
+2036;"102025";"Nicotera";"102";"Vibo Valentia";5,4;14;1,8;-6,7
+2036;"080057";"Palmi";"080";"Reggio di Calabria";7;12,8;-2,2;-8
+2036;"078091";"Paola";"078";"Cosenza";5,3;15;-2,1;-11,8
+2036;"101017";"Petilia Policastro";"101";"Crotone";6,7;13,2;-3,6;-10,2
+2036;"102027";"Pizzo";"102";"Vibo Valentia";5,3;13,3;2,1;-5,8
+2036;"080061";"Polistena";"080";"Reggio di Calabria";6,7;11,7;-2,4;-7,5
+2036;"078101";"Praia a Mare";"078";"Cosenza";4,9;15,2;1,6;-8,8
+2036;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;14,3;-2,3;-10,7
+2036;"078102";"Rende";"078";"Cosenza";5,8;11,2;6,3;0,9
+2036;"080065";"Rizziconi";"080";"Reggio di Calabria";7,1;11,9;-1,3;-6,1
+2036;"101019";"Rocca di Neto";"101";"Crotone";7,7;12,6;-3,8;-8,7
+2036;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;16;-0,4;-10,9
+2036;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;13,9;0,7;-7
+2036;"078105";"Rogliano";"078";"Cosenza";5,5;14,6;-2,4;-11,5
+2036;"080069";"Rosarno";"080";"Reggio di Calabria";9,6;10,5;2,9;2
+2036;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,3;15,3;-5,7;-15,7
+2036;"078122";"San Lucido";"078";"Cosenza";6,3;11;14,3;9,7
+2036;"078123";"San Marco Argentano";"078";"Cosenza";5,4;12,7;4,9;-2,5
+2036;"078138";"Scalea";"078";"Cosenza";5,6;12,1;9,6;3,1
+2036;"079127";"Sellia Marina";"079";"Catanzaro";7;11,4;3,2;-1,2
+2036;"102037";"Serra San Bruno";"102";"Vibo Valentia";7;12,8;-4,8;-10,6
+2036;"080088";"Siderno";"080";"Reggio di Calabria";7,1;11,7;0,7;-3,9
+2036;"079137";"Soverato";"079";"Catanzaro";4,3;16;1,4;-10,2
+2036;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;15;-0,5;-8,9
+2036;"101025";"Strongoli";"101";"Crotone";7;13;-1,9;-7,9
+2036;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;12,9;-2,9;-8,9
+2036;"078149";"Tortora";"078";"Cosenza";5,4;13,2;2;-5,8
+2036;"078150";"Trebisacce";"078";"Cosenza";6,3;14,3;3,2;-4,8
+2036;"102044";"Tropea";"102";"Vibo Valentia";4,6;16,1;-2;-13,4
+2036;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;14,1;-3,9;-12,1
+2036;"078154";"Villapiana";"078";"Cosenza";7,1;14,1;5,1;-1,9
+2036;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,2;14,6;-3,6;-13
+2037;"078003";"Acri";"078";"Cosenza";5,4;16,3;-4,8;-15,7
+2037;"078010";"Amantea";"078";"Cosenza";6,2;12,8;3,8;-2,8
+2037;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7;15,1;-4,9;-13,1
+2037;"078015";"Belvedere Marittimo";"078";"Cosenza";4,9;14,1;6,4;-2,8
+2037;"078017";"Bisignano";"078";"Cosenza";7,1;13,5;-0,1;-6,5
+2037;"079011";"Borgia";"079";"Catanzaro";6;13,9;-3,7;-11,7
+2037;"079012";"Botricello";"079";"Catanzaro";6;12,7;-1,6;-8,3
+2037;"080012";"Bovalino";"080";"Reggio di Calabria";8,8;12,4;1;-2,6
+2037;"078025";"Cariati";"078";"Cosenza";6,7;15,8;-3,7;-12,9
+2037;"078156";"Casali del Manco";"078";"Cosenza";6;14,4;-3,2;-11,7
+2037;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;14,1;-2,1;-9,9
+2037;"078031";"Castrolibero";"078";"Cosenza";5,4;15,1;-4;-13,7
+2037;"078033";"Castrovillari";"078";"Cosenza";5,8;14,8;-0,4;-9,3
+2037;"079023";"Catanzaro";"079";"Catanzaro";5,7;14,9;-3,1;-12,4
+2037;"080025";"Caulonia";"080";"Reggio di Calabria";6,4;13,4;5,7;-1,3
+2037;"078040";"Cetraro";"078";"Cosenza";5,2;15,4;2,4;-7,8
+2037;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,7;17,6;-4,7;-16,6
+2037;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,1;12,3;-3,3;-8,5
+2037;"101008";"Cirò Marina";"101";"Crotone";7,5;12,9;-1,4;-6,9
+2037;"080028";"Cittanova";"080";"Reggio di Calabria";7;13,2;-2;-8,2
+2037;"078157";"Corigliano-Rossano";"078";"Cosenza";7;11,8;0,8;-3,9
+2037;"078045";"Cosenza";"078";"Cosenza";5,9;14,3;1,9;-6,6
+2037;"101009";"Cotronei";"101";"Crotone";7,5;13,7;1,9;-4,3
+2037;"078047";"Crosia";"078";"Cosenza";7,1;10,7;4,2;0,7
+2037;"101010";"Crotone";"101";"Crotone";6,6;12,7;-0,8;-6,9
+2037;"079039";"Curinga";"079";"Catanzaro";6,6;12,7;0,2;-5,9
+2037;"101012";"Cutro";"101";"Crotone";6,2;16,5;-5,5;-15,8
+2037;"079042";"Davoli";"079";"Catanzaro";5,3;13;4,3;-3,5
+2037;"078048";"Diamante";"078";"Cosenza";4,7;15,5;2,8;-7,9
+2037;"078058";"Fuscaldo";"078";"Cosenza";5,8;13,3;2,4;-5,1
+2037;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;11,4;-0,7;-4,3
+2037;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;11,2;3,1;-0,2
+2037;"079059";"Girifalco";"079";"Catanzaro";5,4;17;-1,4;-13
+2037;"101013";"Isola di Capo Rizzuto";"101";"Crotone";11;9,2;3,4;5,2
+2037;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;12,7;-1,3;-7,5
+2037;"080043";"Locri";"080";"Reggio di Calabria";6,5;13,6;0,7;-6,4
+2037;"078070";"Luzzi";"078";"Cosenza";5,9;14,4;-1,8;-10,3
+2037;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,4;13,5;-2,4;-9,6
+2037;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;15,1;-2;-11,7
+2037;"078079";"Mendicino";"078";"Cosenza";6,2;12,7;-1,7;-8,3
+2037;"101015";"Mesoraca";"101";"Crotone";6,1;15,6;-9,8;-19,3
+2037;"102021";"Mileto";"102";"Vibo Valentia";7,4;13,4;-1,4;-7,4
+2037;"078081";"Montalto Uffugo";"078";"Cosenza";7,7;10,1;1,5;-0,9
+2037;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,9;15,1;0,2;-9
+2037;"079081";"Montepaone";"079";"Catanzaro";6,8;10,9;6,2;2,1
+2037;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;16,7;-3,3;-15,1
+2037;"102025";"Nicotera";"102";"Vibo Valentia";5,4;14,2;1,9;-6,8
+2037;"080057";"Palmi";"080";"Reggio di Calabria";7;13;-2,1;-8,2
+2037;"078091";"Paola";"078";"Cosenza";5,3;15,3;-2;-12
+2037;"101017";"Petilia Policastro";"101";"Crotone";6,7;13,5;-3,5;-10,3
+2037;"102027";"Pizzo";"102";"Vibo Valentia";5,4;13,5;2,2;-5,9
+2037;"080061";"Polistena";"080";"Reggio di Calabria";6,6;11,9;-2,4;-7,7
+2037;"078101";"Praia a Mare";"078";"Cosenza";4,9;15,5;1,7;-8,9
+2037;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;14,5;-2,2;-10,9
+2037;"078102";"Rende";"078";"Cosenza";5,8;11,3;6,2;0,6
+2037;"080065";"Rizziconi";"080";"Reggio di Calabria";7;12,1;-1,2;-6,4
+2037;"101019";"Rocca di Neto";"101";"Crotone";7,6;12,8;-3,7;-9
+2037;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;16,3;-0,3;-11,1
+2037;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;14,1;0,7;-7,1
+2037;"078105";"Rogliano";"078";"Cosenza";5,5;14,9;-2,3;-11,6
+2037;"080069";"Rosarno";"080";"Reggio di Calabria";9,7;10,6;2,9;1,9
+2037;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,2;15,7;-5,6;-16
+2037;"078122";"San Lucido";"078";"Cosenza";6,3;11;14;9,3
+2037;"078123";"San Marco Argentano";"078";"Cosenza";5,4;12,9;4,9;-2,6
+2037;"078138";"Scalea";"078";"Cosenza";5,6;12,3;9,5;2,8
+2037;"079127";"Sellia Marina";"079";"Catanzaro";7,1;11,6;3,1;-1,4
+2037;"102037";"Serra San Bruno";"102";"Vibo Valentia";7;13,1;-4,8;-10,8
+2037;"080088";"Siderno";"080";"Reggio di Calabria";7,1;11,9;0,7;-4,1
+2037;"079137";"Soverato";"079";"Catanzaro";4,3;16,2;1,5;-10,4
+2037;"078142";"Spezzano Albanese";"078";"Cosenza";6,6;15,2;-0,5;-9,1
+2037;"101025";"Strongoli";"101";"Crotone";7;13,2;-1,8;-8,1
+2037;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;13,1;-2,8;-9,1
+2037;"078149";"Tortora";"078";"Cosenza";5,4;13,5;2,1;-6
+2037;"078150";"Trebisacce";"078";"Cosenza";6,4;14,5;3,2;-4,9
+2037;"102044";"Tropea";"102";"Vibo Valentia";4,6;16,4;-1,9;-13,6
+2037;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;14,4;-3,8;-12,3
+2037;"078154";"Villapiana";"078";"Cosenza";7,2;14,2;5;-2,1
+2037;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,2;14,9;-3,5;-13,2
+2038;"078003";"Acri";"078";"Cosenza";5,4;16,6;-4,7;-15,9
+2038;"078010";"Amantea";"078";"Cosenza";6,1;13;3,8;-3,1
+2038;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";7;15,4;-4,9;-13,2
+2038;"078015";"Belvedere Marittimo";"078";"Cosenza";4,9;14,3;6,4;-3
+2038;"078017";"Bisignano";"078";"Cosenza";7,1;13,7;-0,1;-6,7
+2038;"079011";"Borgia";"079";"Catanzaro";5,9;14,2;-3,6;-11,9
+2038;"079012";"Botricello";"079";"Catanzaro";6;13;-1,5;-8,5
+2038;"080012";"Bovalino";"080";"Reggio di Calabria";8,9;12,5;1;-2,7
+2038;"078025";"Cariati";"078";"Cosenza";6,7;16,1;-3,6;-13,1
+2038;"078156";"Casali del Manco";"078";"Cosenza";6;14,8;-3,1;-11,9
+2038;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;14,4;-2,1;-10
+2038;"078031";"Castrolibero";"078";"Cosenza";5,4;15,4;-3,9;-13,9
+2038;"078033";"Castrovillari";"078";"Cosenza";5,8;15,1;-0,3;-9,6
+2038;"079023";"Catanzaro";"079";"Catanzaro";5,7;15,2;-3;-12,6
+2038;"080025";"Caulonia";"080";"Reggio di Calabria";6,3;13,5;5,7;-1,5
+2038;"078040";"Cetraro";"078";"Cosenza";5,2;15,6;2,4;-7,9
+2038;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;18;-4,6;-16,8
+2038;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,1;12,5;-3,3;-8,7
+2038;"101008";"Cirò Marina";"101";"Crotone";7,5;13,2;-1,4;-7,1
+2038;"080028";"Cittanova";"080";"Reggio di Calabria";7;13,4;-1,9;-8,4
+2038;"078157";"Corigliano-Rossano";"078";"Cosenza";7;12;0,9;-4,1
+2038;"078045";"Cosenza";"078";"Cosenza";5,9;14,5;1,8;-6,8
+2038;"101009";"Cotronei";"101";"Crotone";7,6;13,9;1,9;-4,4
+2038;"078047";"Crosia";"078";"Cosenza";7,1;10,9;4,2;0,5
+2038;"101010";"Crotone";"101";"Crotone";6,6;12,9;-0,7;-7
+2038;"079039";"Curinga";"079";"Catanzaro";6,5;12,9;0,3;-6,1
+2038;"101012";"Cutro";"101";"Crotone";6,1;16,7;-5,3;-15,9
+2038;"079042";"Davoli";"079";"Catanzaro";5,3;13,4;4,2;-3,8
+2038;"078048";"Diamante";"078";"Cosenza";4,8;15,8;2,9;-8,1
+2038;"078058";"Fuscaldo";"078";"Cosenza";5,8;13,5;2,4;-5,3
+2038;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;11,6;-0,6;-4,5
+2038;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;11,3;3,1;-0,4
+2038;"079059";"Girifalco";"079";"Catanzaro";5,4;17,4;-1,3;-13,2
+2038;"101013";"Isola di Capo Rizzuto";"101";"Crotone";11;9,3;3,4;5
+2038;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;13;-1,3;-7,7
+2038;"080043";"Locri";"080";"Reggio di Calabria";6,5;13,8;0,7;-6,6
+2038;"078070";"Luzzi";"078";"Cosenza";6;14,7;-1,8;-10,5
+2038;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,4;13,8;-2,4;-9,7
+2038;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;15,4;-1,9;-11,9
+2038;"078079";"Mendicino";"078";"Cosenza";6,2;13,1;-1,7;-8,6
+2038;"101015";"Mesoraca";"101";"Crotone";6,1;15,9;-9,9;-19,6
+2038;"102021";"Mileto";"102";"Vibo Valentia";7,4;13,6;-1,3;-7,5
+2038;"078081";"Montalto Uffugo";"078";"Cosenza";7,8;10,3;1,4;-1,2
+2038;"080053";"Montebello Jonico";"080";"Reggio di Calabria";5,9;15,3;0,3;-9
+2038;"079081";"Montepaone";"079";"Catanzaro";6,9;11,1;6;1,7
+2038;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;17;-3,1;-15,3
+2038;"102025";"Nicotera";"102";"Vibo Valentia";5,3;14,4;2,1;-7
+2038;"080057";"Palmi";"080";"Reggio di Calabria";7;13,3;-2,1;-8,4
+2038;"078091";"Paola";"078";"Cosenza";5,3;15,7;-1,9;-12,3
+2038;"101017";"Petilia Policastro";"101";"Crotone";6,7;13,7;-3,5;-10,5
+2038;"102027";"Pizzo";"102";"Vibo Valentia";5,4;13,7;2,2;-6,1
+2038;"080061";"Polistena";"080";"Reggio di Calabria";6,6;12,2;-2,3;-7,9
+2038;"078101";"Praia a Mare";"078";"Cosenza";4,9;15,8;1,8;-9,1
+2038;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,8;14,7;-2,1;-11
+2038;"078102";"Rende";"078";"Cosenza";5,8;11,5;6;0,3
+2038;"080065";"Rizziconi";"080";"Reggio di Calabria";6,9;12,4;-1,1;-6,7
+2038;"101019";"Rocca di Neto";"101";"Crotone";7,5;13;-3,7;-9,2
+2038;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;16,5;-0,2;-11,2
+2038;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;14,4;0,8;-7,3
+2038;"078105";"Rogliano";"078";"Cosenza";5,5;15,2;-2,1;-11,8
+2038;"080069";"Rosarno";"080";"Reggio di Calabria";9,7;10,8;2,8;1,8
+2038;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,2;16;-5,5;-16,4
+2038;"078122";"San Lucido";"078";"Cosenza";6,3;11,1;13,8;8,9
+2038;"078123";"San Marco Argentano";"078";"Cosenza";5,4;13,1;4,8;-2,8
+2038;"078138";"Scalea";"078";"Cosenza";5,6;12,5;9,5;2,6
+2038;"079127";"Sellia Marina";"079";"Catanzaro";7,1;11,8;3,1;-1,7
+2038;"102037";"Serra San Bruno";"102";"Vibo Valentia";7;13,4;-4,7;-11
+2038;"080088";"Siderno";"080";"Reggio di Calabria";7,1;12,1;0,7;-4,3
+2038;"079137";"Soverato";"079";"Catanzaro";4,3;16,5;1,5;-10,6
+2038;"078142";"Spezzano Albanese";"078";"Cosenza";6,7;15,5;-0,4;-9,2
+2038;"101025";"Strongoli";"101";"Crotone";7;13,5;-1,8;-8,2
+2038;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;13,4;-2,8;-9,3
+2038;"078149";"Tortora";"078";"Cosenza";5,4;13,8;2,2;-6,2
+2038;"078150";"Trebisacce";"078";"Cosenza";6,4;14,7;3,2;-5
+2038;"102044";"Tropea";"102";"Vibo Valentia";4,7;16,7;-1,7;-13,7
+2038;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;14,7;-3,6;-12,5
+2038;"078154";"Villapiana";"078";"Cosenza";7,2;14,3;4,9;-2,2
+2038;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,3;15,2;-3,4;-13,4
+2039;"078003";"Acri";"078";"Cosenza";5,4;17;-4,6;-16,2
+2039;"078010";"Amantea";"078";"Cosenza";6,1;13,2;3,8;-3,3
+2039;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";6,9;15,6;-4,8;-13,4
+2039;"078015";"Belvedere Marittimo";"078";"Cosenza";4,9;14,4;6,4;-3,1
+2039;"078017";"Bisignano";"078";"Cosenza";7,1;14;0;-6,8
+2039;"079011";"Borgia";"079";"Catanzaro";5,9;14,5;-3,5;-12,2
+2039;"079012";"Botricello";"079";"Catanzaro";6;13,3;-1,4;-8,7
+2039;"080012";"Bovalino";"080";"Reggio di Calabria";8,9;12,6;0,9;-2,7
+2039;"078025";"Cariati";"078";"Cosenza";6,6;16,4;-3,5;-13,2
+2039;"078156";"Casali del Manco";"078";"Cosenza";5,9;15,1;-3;-12,2
+2039;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;14,6;-1,9;-10,2
+2039;"078031";"Castrolibero";"078";"Cosenza";5,5;15,7;-3,8;-14,1
+2039;"078033";"Castrovillari";"078";"Cosenza";5,8;15,4;-0,2;-9,8
+2039;"079023";"Catanzaro";"079";"Catanzaro";5,6;15,5;-3;-12,8
+2039;"080025";"Caulonia";"080";"Reggio di Calabria";6,3;13,6;5,7;-1,6
+2039;"078040";"Cetraro";"078";"Cosenza";5,3;15,8;2,5;-8,1
+2039;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;18,3;-4,5;-17
+2039;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,1;12,8;-3,2;-8,9
+2039;"101008";"Cirò Marina";"101";"Crotone";7,5;13,4;-1,3;-7,2
+2039;"080028";"Cittanova";"080";"Reggio di Calabria";6,9;13,6;-1,9;-8,5
+2039;"078157";"Corigliano-Rossano";"078";"Cosenza";7;12,2;0,9;-4,2
+2039;"078045";"Cosenza";"078";"Cosenza";6;14,8;1,8;-6,9
+2039;"101009";"Cotronei";"101";"Crotone";7,6;14,1;1,9;-4,6
+2039;"078047";"Crosia";"078";"Cosenza";7,1;11;4,2;0,4
+2039;"101010";"Crotone";"101";"Crotone";6,6;13,2;-0,6;-7,1
+2039;"079039";"Curinga";"079";"Catanzaro";6,4;13,1;0,3;-6,4
+2039;"101012";"Cutro";"101";"Crotone";6,1;16,9;-5,1;-16
+2039;"079042";"Davoli";"079";"Catanzaro";5,3;13,7;4,2;-4,2
+2039;"078048";"Diamante";"078";"Cosenza";4,8;16;3;-8,2
+2039;"078058";"Fuscaldo";"078";"Cosenza";5,8;13,8;2,4;-5,5
+2039;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;11,8;-0,6;-4,6
+2039;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;11,5;3,1;-0,6
+2039;"079059";"Girifalco";"079";"Catanzaro";5,5;17,6;-1,2;-13,4
+2039;"101013";"Isola di Capo Rizzuto";"101";"Crotone";11;9,5;3,3;4,8
+2039;"079160";"Lamezia Terme";"079";"Catanzaro";6,6;13,3;-1,2;-7,9
+2039;"080043";"Locri";"080";"Reggio di Calabria";6,5;13,9;0,8;-6,7
+2039;"078070";"Luzzi";"078";"Cosenza";6;14,9;-1,7;-10,7
+2039;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,5;14;-2,3;-9,8
+2039;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;15,7;-1,8;-12
+2039;"078079";"Mendicino";"078";"Cosenza";6,2;13,4;-1,6;-8,8
+2039;"101015";"Mesoraca";"101";"Crotone";6,2;16,3;-9,8;-19,9
+2039;"102021";"Mileto";"102";"Vibo Valentia";7,4;13,9;-1,2;-7,7
+2039;"078081";"Montalto Uffugo";"078";"Cosenza";7,8;10,5;1,2;-1,5
+2039;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6;15,4;0,4;-9,1
+2039;"079081";"Montepaone";"079";"Catanzaro";6,9;11,3;5,8;1,3
+2039;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;17,2;-3;-15,4
+2039;"102025";"Nicotera";"102";"Vibo Valentia";5,3;14,5;2,2;-7,1
+2039;"080057";"Palmi";"080";"Reggio di Calabria";7;13,5;-2;-8,6
+2039;"078091";"Paola";"078";"Cosenza";5,4;16;-1,8;-12,5
+2039;"101017";"Petilia Policastro";"101";"Crotone";6,7;14;-3,4;-10,7
+2039;"102027";"Pizzo";"102";"Vibo Valentia";5,4;13,9;2,3;-6,3
+2039;"080061";"Polistena";"080";"Reggio di Calabria";6,6;12,5;-2,2;-8,1
+2039;"078101";"Praia a Mare";"078";"Cosenza";4,9;16,1;2;-9,2
+2039;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,9;15;-2,1;-11,2
+2039;"078102";"Rende";"078";"Cosenza";5,8;11,7;5,9;-0,1
+2039;"080065";"Rizziconi";"080";"Reggio di Calabria";6,8;12,7;-1;-7
+2039;"101019";"Rocca di Neto";"101";"Crotone";7,4;13,2;-3,6;-9,4
+2039;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;16,7;-0,1;-11,3
+2039;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;14,6;0,9;-7,5
+2039;"078105";"Rogliano";"078";"Cosenza";5,5;15,5;-2;-12
+2039;"080069";"Rosarno";"080";"Reggio di Calabria";9,8;10,9;2,8;1,7
+2039;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,1;16,4;-5,4;-16,8
+2039;"078122";"San Lucido";"078";"Cosenza";6,3;11,2;13,5;8,6
+2039;"078123";"San Marco Argentano";"078";"Cosenza";5,5;13,3;4,8;-3
+2039;"078138";"Scalea";"078";"Cosenza";5,6;12,7;9,5;2,4
+2039;"079127";"Sellia Marina";"079";"Catanzaro";7,1;12,1;3;-2
+2039;"102037";"Serra San Bruno";"102";"Vibo Valentia";7;13,7;-4,6;-11,3
+2039;"080088";"Siderno";"080";"Reggio di Calabria";7,1;12,3;0,7;-4,5
+2039;"079137";"Soverato";"079";"Catanzaro";4,3;16,8;1,6;-10,8
+2039;"078142";"Spezzano Albanese";"078";"Cosenza";6,7;15,7;-0,4;-9,4
+2039;"101025";"Strongoli";"101";"Crotone";7,1;13,7;-1,7;-8,4
+2039;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;13,6;-2,7;-9,5
+2039;"078149";"Tortora";"078";"Cosenza";5,4;14,1;2,3;-6,4
+2039;"078150";"Trebisacce";"078";"Cosenza";6,4;14,9;3,3;-5,2
+2039;"102044";"Tropea";"102";"Vibo Valentia";4,7;17;-1,5;-13,9
+2039;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;15,1;-3,5;-12,7
+2039;"078154";"Villapiana";"078";"Cosenza";7,2;14,5;4,9;-2,4
+2039;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,3;15,5;-3,3;-13,5
+2040;"078003";"Acri";"078";"Cosenza";5,4;17,3;-4,5;-16,5
+2040;"078010";"Amantea";"078";"Cosenza";6,1;13,4;3,8;-3,5
+2040;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";6,9;15,8;-4,7;-13,6
+2040;"078015";"Belvedere Marittimo";"078";"Cosenza";5;14,6;6,4;-3,2
+2040;"078017";"Bisignano";"078";"Cosenza";7,1;14,2;0;-7,1
+2040;"079011";"Borgia";"079";"Catanzaro";5,9;14,9;-3,4;-12,5
+2040;"079012";"Botricello";"079";"Catanzaro";6,1;13,6;-1,4;-8,9
+2040;"080012";"Bovalino";"080";"Reggio di Calabria";9;12,7;0,9;-2,8
+2040;"078025";"Cariati";"078";"Cosenza";6,6;16,7;-3,4;-13,4
+2040;"078156";"Casali del Manco";"078";"Cosenza";5,9;15,4;-2,9;-12,5
+2040;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;14,9;-1,8;-10,3
+2040;"078031";"Castrolibero";"078";"Cosenza";5,5;16,1;-3,7;-14,2
+2040;"078033";"Castrovillari";"078";"Cosenza";5,8;15,6;-0,1;-10
+2040;"079023";"Catanzaro";"079";"Catanzaro";5,6;15,8;-2,9;-13,1
+2040;"080025";"Caulonia";"080";"Reggio di Calabria";6,2;13,8;5,7;-1,8
+2040;"078040";"Cetraro";"078";"Cosenza";5,3;16;2,6;-8,2
+2040;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;18,6;-4,4;-17,2
+2040;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,1;13,1;-3,2;-9,2
+2040;"101008";"Cirò Marina";"101";"Crotone";7,5;13,6;-1,3;-7,4
+2040;"080028";"Cittanova";"080";"Reggio di Calabria";6,9;13,8;-1,8;-8,7
+2040;"078157";"Corigliano-Rossano";"078";"Cosenza";7;12,5;1;-4,4
+2040;"078045";"Cosenza";"078";"Cosenza";6;15;1,8;-7,1
+2040;"101009";"Cotronei";"101";"Crotone";7,7;14,3;1,9;-4,8
+2040;"078047";"Crosia";"078";"Cosenza";7,1;11,2;4,2;0,2
+2040;"101010";"Crotone";"101";"Crotone";6,7;13,4;-0,5;-7,2
+2040;"079039";"Curinga";"079";"Catanzaro";6,3;13,4;0,4;-6,6
+2040;"101012";"Cutro";"101";"Crotone";6;17,2;-5;-16,1
+2040;"079042";"Davoli";"079";"Catanzaro";5,3;14;4,2;-4,5
+2040;"078048";"Diamante";"078";"Cosenza";4,9;16,3;3;-8,4
+2040;"078058";"Fuscaldo";"078";"Cosenza";5,9;14;2,5;-5,6
+2040;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;12;-0,5;-4,7
+2040;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;11,6;3,1;-0,8
+2040;"079059";"Girifalco";"079";"Catanzaro";5,5;17,9;-1,2;-13,6
+2040;"101013";"Isola di Capo Rizzuto";"101";"Crotone";11;9,6;3,2;4,6
+2040;"079160";"Lamezia Terme";"079";"Catanzaro";6,5;13,5;-1,1;-8,1
+2040;"080043";"Locri";"080";"Reggio di Calabria";6,5;14,1;0,9;-6,8
+2040;"078070";"Luzzi";"078";"Cosenza";6;15,2;-1,6;-10,9
+2040;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,5;14,3;-2,3;-10
+2040;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;16;-1,6;-12,2
+2040;"078079";"Mendicino";"078";"Cosenza";6,2;13,8;-1,5;-9,1
+2040;"101015";"Mesoraca";"101";"Crotone";6,2;16,6;-9,8;-20,2
+2040;"102021";"Mileto";"102";"Vibo Valentia";7,4;14,1;-1,1;-7,9
+2040;"078081";"Montalto Uffugo";"078";"Cosenza";7,9;10,8;1,1;-1,7
+2040;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,1;15,6;0,4;-9,1
+2040;"079081";"Montepaone";"079";"Catanzaro";6,9;11,5;5,6;1
+2040;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;17,5;-2,9;-15,5
+2040;"102025";"Nicotera";"102";"Vibo Valentia";5,3;14,7;2,3;-7,2
+2040;"080057";"Palmi";"080";"Reggio di Calabria";7;13,8;-2;-8,8
+2040;"078091";"Paola";"078";"Cosenza";5,4;16,4;-1,8;-12,7
+2040;"101017";"Petilia Policastro";"101";"Crotone";6,6;14,3;-3,3;-10,9
+2040;"102027";"Pizzo";"102";"Vibo Valentia";5,4;14,2;2,3;-6,4
+2040;"080061";"Polistena";"080";"Reggio di Calabria";6,5;12,8;-2,1;-8,4
+2040;"078101";"Praia a Mare";"078";"Cosenza";4,8;16,3;2,1;-9,4
+2040;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,9;15,2;-2;-11,3
+2040;"078102";"Rende";"078";"Cosenza";5,8;11,9;5,7;-0,4
+2040;"080065";"Rizziconi";"080";"Reggio di Calabria";6,7;13;-1;-7,3
+2040;"101019";"Rocca di Neto";"101";"Crotone";7,3;13,5;-3,5;-9,7
+2040;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;16,9;0;-11,4
+2040;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;14,8;0,9;-7,6
+2040;"078105";"Rogliano";"078";"Cosenza";5,5;15,8;-1,8;-12,1
+2040;"080069";"Rosarno";"080";"Reggio di Calabria";9,8;11;2,8;1,6
+2040;"078119";"San Giovanni in Fiore";"078";"Cosenza";5,1;16,8;-5,4;-17,1
+2040;"078122";"San Lucido";"078";"Cosenza";6,2;11,2;13,2;8,3
+2040;"078123";"San Marco Argentano";"078";"Cosenza";5,5;13,5;4,8;-3,1
+2040;"078138";"Scalea";"078";"Cosenza";5,6;12,9;9,4;2,1
+2040;"079127";"Sellia Marina";"079";"Catanzaro";7,2;12,3;2,9;-2,2
+2040;"102037";"Serra San Bruno";"102";"Vibo Valentia";7;14;-4,5;-11,5
+2040;"080088";"Siderno";"080";"Reggio di Calabria";7,1;12,6;0,8;-4,7
+2040;"079137";"Soverato";"079";"Catanzaro";4,3;17,1;1,7;-11
+2040;"078142";"Spezzano Albanese";"078";"Cosenza";6,7;15,9;-0,3;-9,5
+2040;"101025";"Strongoli";"101";"Crotone";7,1;14;-1,7;-8,6
+2040;"080093";"Taurianova";"080";"Reggio di Calabria";6,9;13,9;-2,7;-9,7
+2040;"078149";"Tortora";"078";"Cosenza";5,5;14,4;2,3;-6,6
+2040;"078150";"Trebisacce";"078";"Cosenza";6,5;15,1;3,3;-5,3
+2040;"102044";"Tropea";"102";"Vibo Valentia";4,7;17,3;-1,4;-14
+2040;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;15,4;-3,4;-12,9
+2040;"078154";"Villapiana";"078";"Cosenza";7,2;14,6;4,8;-2,5
+2040;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,3;15,8;-3,2;-13,7
+2041;"078003";"Acri";"078";"Cosenza";5,3;17,7;-4,4;-16,8
+2041;"078010";"Amantea";"078";"Cosenza";6,1;13,6;3,9;-3,7
+2041;"080007";"Bagnara Calabra";"080";"Reggio di Calabria";6,8;16;-4,6;-13,8
+2041;"078015";"Belvedere Marittimo";"078";"Cosenza";5;14,8;6,4;-3,4
+2041;"078017";"Bisignano";"078";"Cosenza";7,1;14,5;0,1;-7,3
+2041;"079011";"Borgia";"079";"Catanzaro";5,8;15,2;-3,4;-12,7
+2041;"079012";"Botricello";"079";"Catanzaro";6,1;13,9;-1,3;-9,1
+2041;"080012";"Bovalino";"080";"Reggio di Calabria";9,1;12,8;0,9;-2,8
+2041;"078025";"Cariati";"078";"Cosenza";6,5;16,9;-3,2;-13,6
+2041;"078156";"Casali del Manco";"078";"Cosenza";5,9;15,8;-2,8;-12,7
+2041;"078029";"Cassano all'Ionio";"078";"Cosenza";6,4;15,1;-1,7;-10,5
+2041;"078031";"Castrolibero";"078";"Cosenza";5,5;16,4;-3,5;-14,4
+2041;"078033";"Castrovillari";"078";"Cosenza";5,8;15,9;-0,1;-10,2
+2041;"079023";"Catanzaro";"079";"Catanzaro";5,6;16,1;-2,8;-13,3
+2041;"080025";"Caulonia";"080";"Reggio di Calabria";6,2;13,9;5,7;-2
+2041;"078040";"Cetraro";"078";"Cosenza";5,3;16,3;2,6;-8,3
+2041;"079029";"Chiaravalle Centrale";"079";"Catanzaro";5,8;18,9;-4,3;-17,4
+2041;"080027";"Cinquefrondi";"080";"Reggio di Calabria";7,1;13,4;-3,1;-9,4
+2041;"101008";"Cirò Marina";"101";"Crotone";7,5;13,9;-1,2;-7,6
+2041;"080028";"Cittanova";"080";"Reggio di Calabria";6,9;14;-1,7;-8,8
+2041;"078157";"Corigliano-Rossano";"078";"Cosenza";7;12,7;1;-4,6
+2041;"078045";"Cosenza";"078";"Cosenza";6;15,2;1,9;-7,4
+2041;"101009";"Cotronei";"101";"Crotone";7,7;14,5;1,9;-5
+2041;"078047";"Crosia";"078";"Cosenza";7,1;11,3;4,2;0
+2041;"101010";"Crotone";"101";"Crotone";6,7;13,7;-0,4;-7,4
+2041;"079039";"Curinga";"079";"Catanzaro";6,3;13,6;0,4;-6,9
+2041;"101012";"Cutro";"101";"Crotone";6;17,4;-4,8;-16,2
+2041;"079042";"Davoli";"079";"Catanzaro";5,3;14,3;4,1;-4,8
+2041;"078048";"Diamante";"078";"Cosenza";4,9;16,6;3,1;-8,6
+2041;"078058";"Fuscaldo";"078";"Cosenza";5,9;14,2;2,5;-5,8
+2041;"080038";"Gioia Tauro";"080";"Reggio di Calabria";7,8;12,2;-0,5;-4,9
+2041;"080039";"Gioiosa Ionica";"080";"Reggio di Calabria";7,8;11,8;3,1;-0,9
+2041;"079059";"Girifalco";"079";"Catanzaro";5,6;18,2;-1,1;-13,7
+2041;"101013";"Isola di Capo Rizzuto";"101";"Crotone";11;9,8;3,2;4,4
+2041;"079160";"Lamezia Terme";"079";"Catanzaro";6,5;13,8;-1,1;-8,3
+2041;"080043";"Locri";"080";"Reggio di Calabria";6,5;14,3;0,9;-6,9
+2041;"078070";"Luzzi";"078";"Cosenza";5,9;15,5;-1,6;-11,1
+2041;"080045";"Marina di Gioiosa Ionica";"080";"Reggio di Calabria";6,6;14,5;-2,2;-10,1
+2041;"080050";"Melito di Porto Salvo";"080";"Reggio di Calabria";5,4;16,3;-1,5;-12,3
+2041;"078079";"Mendicino";"078";"Cosenza";6,2;14,1;-1,4;-9,4
+2041;"101015";"Mesoraca";"101";"Crotone";6,3;17;-9,8;-20,5
+2041;"102021";"Mileto";"102";"Vibo Valentia";7,3;14,4;-1,1;-8,1
+2041;"078081";"Montalto Uffugo";"078";"Cosenza";8;11;1;-2
+2041;"080053";"Montebello Jonico";"080";"Reggio di Calabria";6,1;15,7;0,5;-9,1
+2041;"079081";"Montepaone";"079";"Catanzaro";6,9;11,7;5,4;0,6
+2041;"080054";"Motta San Giovanni";"080";"Reggio di Calabria";4,9;17,8;-2,8;-15,7
+2041;"102025";"Nicotera";"102";"Vibo Valentia";5,2;14,9;2,4;-7,3
+2041;"080057";"Palmi";"080";"Reggio di Calabria";7;14,1;-1,9;-9
+2041;"078091";"Paola";"078";"Cosenza";5,4;16,7;-1,7;-13
+2041;"101017";"Petilia Policastro";"101";"Crotone";6,6;14,5;-3,3;-11,1
+2041;"102027";"Pizzo";"102";"Vibo Valentia";5,4;14,4;2,4;-6,6
+2041;"080061";"Polistena";"080";"Reggio di Calabria";6,5;13,1;-2,1;-8,7
+2041;"078101";"Praia a Mare";"078";"Cosenza";4,8;16,6;2,3;-9,6
+2041;"080063";"Reggio di Calabria";"080";"Reggio di Calabria";5,9;15,5;-1,9;-11,5
+2041;"078102";"Rende";"078";"Cosenza";5,8;12,1;5,6;-0,7
+2041;"080065";"Rizziconi";"080";"Reggio di Calabria";6,6;13,3;-0,9;-7,6
+2041;"101019";"Rocca di Neto";"101";"Crotone";7,2;13,7;-3,4;-9,9
+2041;"080067";"Roccella Ionica";"080";"Reggio di Calabria";5,5;17,1;0;-11,5
+2041;"078104";"Roggiano Gravina";"078";"Cosenza";6,3;15,1;1;-7,8
+2041;"078105";"Rogliano";"078";"Cosenza";5,5;16,1;-1,7;-12,3
+2041;"080069";"Rosarno";"080";"Reggio di Calabria";9,9;11,2;2,7;1,4
+2041;"078119";"San Giovanni in Fiore";"078";"Cosenza";5;17,2;-5,3;-17,5
+2041;"078122";"San Lucido";"078";"Cosenza";6,2;11,3;13;7,9
+2041;"078123";"San Marco Argentano";"078";"Cosenza";5,6;13,7;4,9;-3,2
+2041;"078138";"Scalea";"078";"Cosenza";5,7;13,1;9,4;1,9
+2041;"079127";"Sellia Marina";"079";"Catanzaro";7,2;12,5;2,9;-2,5
+2041;"102037";"Serra San Bruno";"102";"Vibo Valentia";6,9;14,3;-4,4;-11,8
+2041;"080088";"Siderno";"080";"Reggio di Calabria";7,1;12,8;0,8;-4,9
+2041;"079137";"Soverato";"079";"Catanzaro";4,3;17,3;1,8;-11,2
+2041;"078142";"Spezzano Albanese";"078";"Cosenza";6,7;16,2;-0,3;-9,7
+2041;"101025";"Strongoli";"101";"Crotone";7,1;14,3;-1,6;-8,8
+2041;"080093";"Taurianova";"080";"Reggio di Calabria";6,8;14,1;-2,6;-9,9
+2041;"078149";"Tortora";"078";"Cosenza";5,5;14,7;2,4;-6,8
+2041;"078150";"Trebisacce";"078";"Cosenza";6,5;15,3;3,3;-5,5
+2041;"102044";"Tropea";"102";"Vibo Valentia";4,7;17,6;-1,2;-14,2
+2041;"102047";"Vibo Valentia";"102";"Vibo Valentia";5,9;15,7;-3,3;-13,1
+2041;"078154";"Villapiana";"078";"Cosenza";7,3;14,7;4,8;-2,7
+2041;"080096";"Villa San Giovanni";"080";"Reggio di Calabria";5,3;16,2;-3,1;-13,9
