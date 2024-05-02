@@ -4,7 +4,7 @@ on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '15 8 * * *'
+    - cron: '15 8 * * *'
 
 jobs:
   scheduled:
@@ -13,13 +13,14 @@ jobs:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
     - name: Verifica aggiornamenti
+      working-directory: ./MISE
       run: |-
         git pull
         wget -O anagrafica_impianti_attivi.csv https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv
         wget -O prezzo_alle_8.csv https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv
     - name: Committa e pusha se ci sono variazioni nei dati
+      working-directory: ./MISE
       run: |-
-        working-directory: ./MISE
         git config user.name "iXMapsBot"
         git config user.email "actions@users.noreply.github.com"
         git add -A
