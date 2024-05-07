@@ -17,7 +17,7 @@ jobs:
       run: |-
         git pull
         wget -O turismo_marche_IstriceRoss1000_ElencoStrutture.json https://strutturericettive.turismo.marche.it/api/IstriceRoss1000/ElencoStrutture
-     - name: Committa e pusha se ci sono variazioni nei dati
+    - name: Committa e pusha se ci sono variazioni nei dati
       working-directory: ./open data marche
       run: |-
         git config user.name "iXMapsBot"
