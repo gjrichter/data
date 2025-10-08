@@ -1,0 +1,91 @@
+name: Fetch MeteoHub Data
+
+on:
+  schedule:
+    # Runs every hour at minute 5
+    - cron: '5 * * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Create meteohub directory
+        run: mkdir -p ./meteohub
+        
+      - name: Calculate dates and fetch data
+        run: |
+          # Calculate current date and 3 hours ago
+          END_DATE=$(date -u +"%Y-%m-%d")
+          END_TIME=$(date -u +"%H:%M")
+          
+          # Calculate start date (3 hours ago)
+          START_TIMESTAMP=$(date -u -d '3 hours ago' +"%Y-%m-%d %H:00")
+          START_DATE=$(echo $START_TIMESTAMP | cut -d' ' -f1)
+          START_TIME=$(echo $START_TIMESTAMP | cut -d' ' -f2)
+          
+          echo "Start: $START_DATE $START_TIME"
+          echo "End: $END_DATE $END_TIME"
+          
+          # URL encode the dates
+          START_DATE_ENC=$(echo "$START_DATE" | sed 's/-/%2D/g')
+          START_TIME_ENC=$(echo "$START_TIME" | sed 's/:/%3A/g')
+          END_DATE_ENC=$(echo "$END_DATE" | sed 's/-/%2D/g')
+          END_TIME_ENC=$(echo "$END_TIME" | sed 's/:/%3A/g')
+          
+          BASE_URL="https://meteohub.mistralportal.it/api/observations"
+          QUERY_BASE="q=reftime:%20%3E=${START_DATE_ENC}%20${START_TIME_ENC},%3C=${END_DATE_ENC}%20${END_TIME_ENC}"
+          
+          # File 1: Temperature (B12101)
+          echo "Fetching temperature data (B12101)..."
+          curl -s "${BASE_URL}?${QUERY_BASE};product:B12101;license:CCBY_COMPLIANT;timerange:254,0,0;level:103,2000,0,0&reliabilityCheck=true&last=true" \
+            -o ./meteohub/temperature_B12101.json
+          
+          # File 2: Humidity (B13003)
+          echo "Fetching humidity data (B13003)..."
+          curl -s "${BASE_URL}?${QUERY_BASE};product:B13003;license:CCBY_COMPLIANT;timerange:254,0,0;level:103,2000,0,0&reliabilityCheck=true&last=true" \
+            -o ./meteohub/humidity_B13003.json
+          
+          # File 3: Wind (B11002)
+          echo "Fetching wind data (B11002)..."
+          curl -s "${BASE_URL}?${QUERY_BASE};product:B11002;license:CCBY_COMPLIANT;timerange:254,0,0;level:103,10000,0,0&reliabilityCheck=true&last=true" \
+            -o ./meteohub/wind_B11002.json
+          
+          echo "All files downloaded successfully"
+          
+      - name: Verify files
+        run: |
+          echo "Files in meteohub directory:"
+          ls -lh ./meteohub/
+          echo ""
+          echo "File sizes:"
+          du -h ./meteohub/*
+          
+      - name: Create metadata
+        run: |
+          cat > ./meteohub/metadata.json << EOF
+          {
+            "lastUpdate": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "startDate": "$(date -u -d '3 hours ago' +"%Y-%m-%d")",
+            "startTime": "$(date -u -d '3 hours ago' +"%H:00")",
+            "endDate": "$(date -u +"%Y-%m-%d")",
+            "endTime": "$(date -u +"%H:%M")",
+            "files": [
+              "temperature_B12101.json",
+              "humidity_B13003.json",
+              "wind_B11002.json"
+            ]
+          }
+          EOF
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ./meteohub/
+          git diff --staged --quiet || git commit -m "Update MeteoHub data - $(date -u +"%Y-%m-%d %H:%M UTC")"
+          git push
