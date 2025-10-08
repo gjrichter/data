@@ -37,7 +37,7 @@ jobs:
           END_DATE_ENC=$(echo "$END_DATE" | sed 's/-/%2D/g')
           END_TIME_ENC=$(echo "$END_TIME" | sed 's/:/%3A/g')
           
-          BASE_URL="https://meteohub.mistralportal.it/api/observations"
+          BASE_URL="https://meteohub.agenziaitaliameteo.it/api/observations"
           QUERY_BASE="q=reftime:%20%3E=${START_DATE_ENC}%20${START_TIME_ENC},%3C=${END_DATE_ENC}%20${END_TIME_ENC}"
           
           # File 1: Temperature (B12101)
