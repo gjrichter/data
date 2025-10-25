@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-25T02:36:16Z",
-  "startDate": "2025-10-24",
-  "startTime": "23:00",
+  "lastUpdate": "2025-10-25T03:23:31Z",
+  "startDate": "2025-10-25",
+  "startTime": "00:00",
   "endDate": "2025-10-25",
-  "endTime": "02:36",
+  "endTime": "03:23",
   "files": [
     "temperature_B12101.json",
     "humidity_B13003.json",
