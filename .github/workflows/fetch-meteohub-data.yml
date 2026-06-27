@@ -54,7 +54,12 @@ jobs:
           echo "Fetching wind data (B11002)..."
           curl -s "${BASE_URL}?${QUERY_BASE};product:B11002;license:CCBY_COMPLIANT;timerange:254,0,0;level:103,10000,0,0&reliabilityCheck=true&last=true" \
             -o ./meteohub/wind_B11002.json
-          
+
+          # File 4: Solar radiation (B14198)
+          echo "Fetching solar radiation data (B14198)..."
+          curl -s "${BASE_URL}?${QUERY_BASE};product:B14198;license:CCBY_COMPLIANT;timerange:254,0,0&reliabilityCheck=true&last=true" \
+            -o ./meteohub/solar_B14198.json
+
           echo "All files downloaded successfully"
           
       - name: Verify files
@@ -77,7 +82,8 @@ jobs:
             "files": [
               "temperature_B12101.json",
               "humidity_B13003.json",
-              "wind_B11002.json"
+              "wind_B11002.json",
+              "solar_B14198.json"
             ]
           }
           EOF
