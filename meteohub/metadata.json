@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-29T10:58:10Z",
+  "lastUpdate": "2026-07-29T11:47:53Z",
   "startDate": "2026-07-29",
-  "startTime": "07:00",
+  "startTime": "08:00",
   "endDate": "2026-07-29",
-  "endTime": "10:58",
+  "endTime": "11:47",
   "files": [
     "temperature_B12101.json",
     "humidity_B13003.json",
